@@ -1,0 +1,1050 @@
+,Label,Sub-Label,Book titles,Song titles,Movies titles
+0,Emotions,Fear,"""The Dinner"" by Herman Koch","""Thriller"" by Michael Jackson",Psycho (1960)
+1,Emotions,Fear,"""A Grief Observed"" by C.S. Lewis","""Disturbia"" by Rihanna",The Shining (1980)
+2,Emotions,Fear,"""The Rage of Dragons"" by Evan Winter","""Hurt"" by Nine Inch Nails",The Babadook (2014)
+3,Emotions,Fear,"""Othello"" by William Shakespeare","""I Will Possess Your Heart"" by Death Cab for Cutie",The Silence of the Lambs (1991)
+4,Emotions,Fear,"""Fight Club"" by Chuck Palahniuk","""Boulevard of Broken Dreams"" by Green Day",The Conjuring (2013) -
+5,Emotions,Fear,"""IT"" by Stephen King","""Highway to Hell"" by AC/DC",The Lobster (2015)
+6,Emotions,Numbness,"""The Stranger"" by Albert Camus","""Numb"" by Linkin Park",Anomalisa (2015)
+7,Emotions,Numbness,"""No Longer Human"" by Osamu Dazai","""Comfortably Numb"" by Pink Floyd",Drive (2011)
+8,Emotions,Numbness,"""The Dispossessed"" by Ursula K. Le Guin","""Boulevard of Broken Dreams"" by Green Day",American Beauty (1999)
+9,Emotions,Numbness,"""Blindness"" by José Saramago","""The Unforgiven"" by Metallica",Lost in Translation (2003)
+10,Emotions,Numbness,"""The Stranger Beside Me"" by Ann Rule","""Numbness"" by Crystal Castles",WALL-E (2008)
+11,Emotions,Numbness,"""The Catcher in the Rye"" by J.D. Salinger","""Everybody Hurts"" by R.E.M.","Synecdoche, New York (2008)"
+12,Emotions,Lonliness,"""Stoner"" by John Williams","""Eleanor Rigby"" by The Beatles",Eternal Sunshine of the Spotless Mind (2004) -
+13,Emotions,Lonliness,"""The Perks of Being a Wallflower"" by Stephen Chbosky","""All By Myself"" by Eric Carmen",Into the Wild (2007)
+14,Emotions,Lonliness,"""Never Let Me Go"" by Kazuo Ishiguro","""I'm So Lonesome I Could Cry"" by Hank Williams",An Education (2009)
+15,Emotions,Lonliness,"""Mrs. Dalloway"" by Virginia Woolf","""Lonely"" by Akon",A Ghost Story (2017) -
+16,Emotions,Lonliness,"""A Man Called Ove"" by Fredrik Backman","""Solitude"" by Duke Ellington",Requiem for a Dream (2000)
+17,Emotions,Lonliness,"""The Road"" by Cormac McCarthy","""Only the Lonely"" by Roy Orbison",Leaving Las Vegas (1995)
+18,Emotions,Worthlessness,"""The Stranger"" by Albert Camus","""Creep"" by Radiohead",Whiplash (2014)
+19,Emotions,Worthlessness,"""Notes from Underground"" by Fyodor Dostoevsky","""In My Blood"" by Shawn Mendes",The Pursuit of Happyness (2006)
+20,Emotions,Worthlessness,"""A Little Life"" by Hanya Yanagihara","""Loser"" by Beck",Sophie's Choice (1982)
+21,Emotions,Worthlessness,"""The Sorrows of Young Werther"" by Johann Wolfgang von Goethe","""No Surprises"" by Radiohead",Beasts of the Southern Wild (2012)
+22,Emotions,Worthlessness,"""Less"" by Andrew Sean Greer","""Little Dark Age"" by MGMT",The Road (2009) -
+23,Emotions,Worthlessness,"""The Remains of the Day"" by Kazuo Ishiguro","""Somebody That I Used To Know"" by Gotye ft. Kimbra",The Impossible (2012)
+24,Emotions,Helplessness,"""The Remains of the Day"" by Kazuo Ishiguro","""Help!"" by The Beatles",Buried (2010) -
+25,Emotions,Helplessness,"""We Need to Talk About Kevin"" by Lionel Shriver","""I'm So Tired"" by The Beatles",Shame (2011)
+26,Emotions,Helplessness,"""Room"" by Emma Donoghue","""Someone Like You"" by Adele",American History X (1998)
+27,Emotions,Helplessness,"""The Giver"" by Lois Lowry","""In My Time of Need"" by Opeth",Precious (2009)
+28,Emotions,Helplessness,"""The Bell Jar"" by Sylvia Plath","""Everybody Hurts"" by R.E.M.",Boys Don't Cry (1999)
+29,Emotions,Helplessness,"""The Stranger"" by Albert Camus","""How to Save a Life"" by The Fray",The Hunt (2012) -
+30,Emotions,Shame ,"""The Scarlet Letter"" by Nathaniel Hawthorne","""Shame"" by Evelyn ""Champagne"" King",Eternal Sunshine of the Spotless Mind (2004)
+31,Emotions,Shame ,"""Atonement"" by Ian McEwan","""Sorry"" by Justin Bieber",Blue Valentine (2010)
+32,Emotions,Shame ,"""Shame"" by Salman Rushdie","""The Man Who Can't Be Moved"" by The Script",Million Dollar Baby (2004)
+33,Emotions,Shame ,"""The Secret History"" by Donna Tartt","""Loser"" by 3 Doors Down",My Girl (1991)
+34,Emotions,Shame ,"""Black Swan Green"" by David Mitchell","""Shameless"" by Billy Joel",The Lovely Bones (2009)
+35,Emotions,Shame ,"""Gilead"" by Marilynne Robinson","""Crawling"" by Linkin Park",The Shawshank Redemption (1994)
+36,Emotions,Hurt,"""A Little Life"" by Hanya Yanagihara","""Hurt"" by Johnny Cash (originally by Nine Inch Nails)",Mystic River (2003)
+37,Emotions,Hurt,"""The Fault in Our Stars"" by John Green","""Someone Like You"" by Adele",The Secret in Their Eyes (2009)
+38,Emotions,Hurt,"""The Lovely Bones"" by Alice Sebold","""I Will Always Love You"" by Whitney Houston (originally by Dolly Parton)",Léon: The Professional (1994) -
+39,Emotions,Hurt,"""The Song of Achilles"" by Madeline Miller","""Yesterday"" by The Beatles",The Constant Gardener (2005)
+40,Emotions,Hurt,"""Never Let Me Go"" by Kazuo Ishiguro","""Bleeding Love"" by Leona Lewis",Manchester by the Sea (2016) -
+41,Emotions,Hurt,"""Me Before You"" by Jojo Moyes","""Stay With Me"" by Sam Smith",A Monster Calls (2016)
+42,Emotions,Guilt,"""The Dinner"" by Herman Koch","""Guilt"" by Marianne Faithfull",Ordinary People (1980)
+43,Emotions,Guilt,"""Crime and Punishment"" by Fyodor Dostoevsky","""Guilt Trip"" by Kanye West",Moonlight (2016)
+44,Emotions,Guilt,"""The Kite Runner"" by Khaled Hosseini","""Sorry"" by Justin Bieber","Three Billboards Outside Ebbing, Missouri (2017)"
+45,Emotions,Guilt,"""Atonement"" by Ian McEwan","""Breathe Me"" by Sia",Fight Club (1999)
+46,Emotions,Guilt,"""We Were Liars"" by E. Lockhart","""Unforgiven"" by Metallica",American History X (1998)
+47,Emotions,Guilt,"""The Goldfinch"" by Donna Tartt","""The Night We Met"" by Lord Huron",A Clockwork Orange (1971) -
+48,Emotions,Grief,"""A Grief Observed"" by C.S. Lewis","""Tears in Heaven"" by Eric Clapton",The Hulk (2003)
+49,Emotions,Grief,"""Extremely Loud and Incredibly Close"" by Jonathan Safran Foer","""With or Without You"" by U2",12 Angry Men (1957)
+50,Emotions,Grief,"""The Nightingale"" by Kristin Hannah","""My Heart Will Go On"" by Celine Dion",Amadeus (1984)
+51,Emotions,Grief,"""Everything I Never Told You"" by Celeste Ng","""I Will Always Love You"" by Whitney Houston (originally by Dolly Parton)",Mean Girls (2004) -
+52,Emotions,Grief,"""The Song of Achilles"" by Madeline Miller","""The Scientist"" by Coldplay",Boogie Nights (1997) -
+53,Emotions,Grief,"""The Sound of Glass"" by Karen White","""Fix You"" by Coldplay",Single White Female (1992)
+54,Emotions,Anger,"""The Rage of Dragons"" by Evan Winter","""Smells Like Teen Spirit"" by Nirvana",Bitter Moon (1992) -
+55,Emotions,Anger,"""A Clockwork Orange"" by Anthony Burgess","""Break Stuff"" by Limp Bizkit",Pink Flamingos (1972)
+56,Emotions,Anger,"""The Girl with the Dragon Tattoo"" by Stieg Larsson","""Killing in the Name"" by Rage Against the Machine",A Serbian Film (2010)
+57,Emotions,Anger,"""The Hate U Give"" by Angie Thomas","""Given Up"" by Linkin Park",Cannibal Holocaust (1980) -
+58,Emotions,Anger,"""The Red Badge of Courage"" by Stephen Crane","""Angry Again"" by Megadeth",Antichrist (2009)
+59,Emotions,Anger," ""The Fight"" by Norman Mailer","""Bulls"" by Miike Snow",Raw (2016)
+60,Emotions,Envy,"""Othello"" by William Shakespeare","""Jealous"" by Labrinth",
+61,Emotions,Envy,"""Rebecca"" by Daphne du Maurier","""You're So Vain"" by Carly Simon",
+62,Emotions,Envy,"""The Secret History"" by Donna Tartt","""Diamonds and Pearls"" by Prince",
+63,Emotions,Envy,"""A Separate Peace"" by John Knowles","""Miss Independent"" by Ne-Yo",
+64,Emotions,Envy,"""The Other Typist"" by Suzanne Rindell","""The One That Got Away"" by Katy Perry",
+65,Emotions,Envy,"""Where'd You Go, Bernadette"" by Maria Semple","""Judas"" by Lady Gaga",
+66,Emotions,Disgust,"""Fight Club"" by Chuck Palahniuk","""Disgustipated"" by Tool",
+67,Emotions,Disgust,"""Geek Love"" by Katherine Dunn","""Sick Like Me"" by In This Moment",
+68,Emotions,Disgust,"""Fight Club"" by Chuck Palahniuk","""I Don't Like Mondays"" by The Boomtown Rats",
+69,Emotions,Disgust,"""The Wasp Factory"" by Iain Banks","""The Negative One"" by Slipknot",
+70,Emotions,Disgust,"""The Dinner"" by Herman Koch","""One"" by Metallica",
+71,Emotions,Disgust,"""Sick"" by Porochista Khakpour","""So What"" by P!nk",
+0,Disorder,Neurodevelopmental disorder,"""The Reason I Jump: The Inner Voice of a Thirteen-Year-Old Boy with Autism"" by Naoki Higashida -","""Lithium"" by Evanescence","""Rain Man"" (1988) - by Dustin Hoffman"
+1,Disorder,Neurodevelopmental disorder,"""Neurotribes: The Legacy of Autism and the Future of Neurodiversity"" by Steve Silberman","""How to Save a Life"" by The Fray -","""Temple Grandin"" (2010) - "
+2,Disorder,Neurodevelopmental disorder,"""ADHD 2.0: New Science and Essential Strategies for Thriving with Distraction--from Childhood through Adulthood"" by Edward M. Hallowell, M.D.","""Just Like a Pill"" by Pink -","""What's Eating Gilbert Grape"" (1993) - Arnie "
+3,Disorder,Neurodevelopmental disorder,"""The Complete Guide to Asperger's Syndrome"" by Tony Attwood -","""One More Light"" by Linkin Park","""Extremely Loud & Incredibly Close"" (2011)- OSKER"
+4,Disorder,Neurodevelopmental disorder,"""Far from the Tree: Parents, Children, and the Search for Identity"" by Andrew Solomon -","""Anxiety"" by Julia Michaels -","""The Accountant"" (2016)-  Christian Wolff "
+5,Disorder,Neurodevelopmental disorder,"""The Dyslexic Advantage: Unlocking the Hidden Potential of the Dyslexic Brain"" by Brock L. Eide and Fernette F. Eide -","""Human"" by Christina Perri -"," ""Adam"" (2009) - adam"
+6,Disorder,Neurodevelopmental disorder,"""The Boy Who Loved Too Much: A True Story of Pathological Friendliness"" by Jennifer Latson -","""1-800-273-8255"" by Logic ft. Alessia Cara & Khalid","""Mozart and the Whale"" (2005) - "
+7,Disorder,Neurodevelopmental disorder,"""Thinking in Pictures: My Life with Autism"" by Temple Grandin ","""Puzzle Pieces"" by Saint Motel -","""Radio"" (2003) -  James Robert"
+8,Disorder,Dyslexia,"""The Gift of Dyslexia: Why Some of the Smartest People Can't Read... and How They Can Learn"" by Ronald D. Davis -","""Do It Anyway"" by Ben Folds Five -",Darsheel safary (Taare zameen par)
+9,Disorder,Dyslexia,"""Proust and the Squid: The Story and Science of the Reading Brain"" by Maryanne Wolf -","""Talk To Me"" by Stevie Nicks -","""The Secret Life of Words"" (2005) -  henna"
+10,Disorder,Dyslexia,"""Thank You, Mr. Falker"" by Patricia Polacco -","""Different"" by Michael Tyler -","""Like Dandelion Dust"" (2009) - son"
+11,Disorder,Dyslexia,"""The Alphabet War: A Story about Dyslexia"" by Diane Burton Robb -","""A Little Ray of Sunshine"" by Axiom","""Akeelah and the Bee"" (2006) - akeelah"
+12,Disorder,Dyslexia,"""Fish in a Tree"" by Lynda Mullaly Hunt -",Solitary Shell by Dream Theatre,"""The Big Picture: Rethinking Dyslexia"" (2012) -"
+13,Disorder,Dyslexia,"""Fish in a Tree"" by Lynda Mullaly Hunt -",Puzzle Box by Red Lamb,"""The Miracle Worker"" (1962) - helen keller"
+14,Disorder,Dyslexia,"""Dyslexia Empowerment Plan: A Blueprint for Renewing Your Child's Confidence and Love of Learning"" by Ben Foss -",We’ll Get By – Johnny Orr Band,Woo Young-woo (Exraordinary Attorney Woo Young-woo)
+15,Disorder,Dyslexia,"""The Dyslexic Advantage: Unlocking the Hidden Potential of the Dyslexic Brain"" by Brock L. Eide and Fernette F. Eide",Rainbow – Matthew Lien,Sam Gardener (Atypical)
+16,Disorder,Dyslexia,"""Overcoming Dyslexia: A New and Complete Science-Based Program for Reading Problems at Any Level"" by Sally Shaywitz -",A.U.T.I.S.M - CupcakKe,Abed Nadir (Community)
+17,Disorder,Autism,"""The Reason I Jump: The Inner Voice of a Thirteen-Year-Old Boy with Autism"" by Naoki Higashida -","""A Different Way"" by The Wallflowers",Shaun Murphy (The Good Doctor)
+18,Disorder,Autism,Eye Contact by Cammie McGovern.,"""Runaway"" by Aurora",Rizwan Khan (My name is Khan)
+19,Disorder,Autism,"Please don't Hug Me by Kay Kerr
+","""All the Lost Souls"" by Jesse Kinch",Moon Sang-tae (It's okay to not be okay)
+20,Disorder,Autism,What to say next by Julie Buxbaum,"""Supermarket Flowers"" by Ed Sheeran",Nathan - A brilliant young mind (2014)
+21,Disorder,Autism,"Something More by Jackie Khalilieh
+","""I'm Not Ok"" by H.E.R. -",Fred - Little Man Tate (1991)
+22,Disorder,Autism,On the Edge of Gone by Corinne Duyvis,"""Fireflies"" by Owl City -",Rizwan khan ( My name is Khan)
+23,Disorder,Autism,"""Neurotribes: The Legacy of Autism and the Future of Neurodiversity"" by Steve Silberman","""Wired"" by Mallory Knox:",Asperger's are us (2016 documentary)
+24,Disorder,Autism,"""Look Me in the Eye: My Life with Asperger's"" by John Elder Robison -","""Running Just to Catch Myself"" by Mark Schultz:",Donald Mortan (Mozart and the whale)
+25,Disorder,Autism,"""The Autism Revolution: Whole-Body Strategies for Making Life All It Can Be"" by Martha Herbert and Karen Weintraub -","""Easier to Run"" by Linkin Park",Bart - The night clerk (2020)
+26,Disorder,Autism,"""Uniquely Human: A Different Way of Seeing Autism"" by Barry M. Prizant -","""Hyperreal"" by Flume ft. Kučka","""ADD & Loving It ?!""   (2009)"
+27,Disorder,Autism,"""Ten Things Every Child with Autism Wishes You Knew"" by Ellen Notbohm -","""ADHD"" by Joyner Lucas:","Dwayne- ""Little Miss Sunshine"" (2006)"
+28,Disorder,Autism,"""The Curious Incident of the Dog in the Night-Time"" by Mark Haddon -","""Easier to Run"" by Linkin Park"," Molly Bloom -""Molly's Game"" (2017)"
+29,Disorder,Autism,"""Thinking in Pictures: My Life with Autism"" by Temple Grandin -",Somebody's Watching Me by Rockwell," Howard Hughes-""The Aviator"" (2004) "
+30,Disorder,Asperger,"""The Autistic Brain: Helping Different Kinds of Minds Succeed"" by Temple Grandin and Richard Panek -",Paranoid Android by Radiohead,"Patrick -""The Perks of Being a Wallflower"" (2012)"
+31,Disorder,Asperger,House rules by Jodi Picoult,"Unwell 
+by Matchbox 20","Charles Freck-""A Scanner Darkly"" (2006)"
+32,Disorder,Asperger,The Curious Incident of the Dog in the Night-Time by Mark Haddon,"Who Can It Be Now
+ by Men at Work",John Nash (  A beautiful mind )
+33,Disorder,Asperger,Look Me in the Eye: My Life with Asperger's  by John Elder Robison,"Anti-Hero 
+by Taylor Swift","Antony Baekeland
+(Savage grace)"
+34,Disorder,Asperger,Thinking in Pictures - by Temple Grandin,Sober- Demi Lavato,Nathaniel Ayers (The soloist)
+35,Disorder,Asperger,All Cats Have Asperger Syndrome by Kathy Hoopmann,Graceless” by The National,Teddy Daniels ( Shutter Island)
+36,Disorder,Asperger,"""Born on a Blue Day: Inside the Extraordinary Mind of an Autistic Savant"" by Daniel Tammet -","Shake It Out"" by Florence + The Machine",Meethi ( 15 Park avenue)
+37,Disorder,Asperger,"""Aspergirls: Empowering Females with Asperger Syndrome"" by Rudy Simone -",Scars” by I Am They,Karthik( Karthik calling karthik)
+38,Disorder,Asperger,"""The Asperkid's (Secret) Book of Social Rules: The Handbook of Not-So-Obvious Social Guidelines for Tweens and Teens with Asperger Syndrome"" by Jennifer Cook O'Toole",Life Left To Go” by Safetysuit,Pat Solitano–Silver Linings Playbook (2012)
+39,Disorder,Asperger,"""The Rosie Project"" by Graeme Simsion -",Pursuit of Happiness by Kid Cudi,Cam Stuart– Infinitely Polar Bear (2014)
+40,Disorder,Asperger,"""The Journal of Best Practices: A Memoir of Marriage, Asperger Syndrome, and One Man's Quest to Be a Better Husband"" by David Finch",I’m Good by The Mowgli’s,Mr. Jones– Mr. Jones (1993)
+41,Disorder,Asperger,"""Look Me in the Eye: My Life with Asperger's"" by John Elder Robison -",Simple Man by Shinedown,Ian Gallagher Shameless
+42,Disorder,ADHD,"""Delivered from Distraction: Getting the Most Out of Life with Attention Deficit Disorder"" by Edward M. Hallowell, M.D., and John J. Ratey, M.D. -",Samskeyti by Sigur Rós, Lexi Donohoe- Mobern love ep.3
+43,Disorder,ADHD,"""The ADHD Effect on Marriage"" by Melissa Orlov",Anchor Me” by The Tenors,VIncent Van gogh-- VIncent and theo (1990)
+44,Disorder,ADHD,"""Faster Than Normal by Peter Shankman: ",Sound of Silence” by Simon and Garfunkel,Elizabeth Wurtzel (Prozac Nation)
+45,Disorder,ADHD,"""Smart but Scattered"" by Peg Dawson and Richard Guare:",‘I Am A Rock’ by Simon and Garfunkel,The Darjeeling Limited
+46,Disorder,ADHD,"""Driven to Distraction"" by Edward M. Hallowell and John J. Ratey:",Learn to Let Go” by Kesha,The Royal Tenenbaums
+47,Disorder,ADHD,"""You Mean I'm Not Lazy, Stupid or Crazy?!"" by Kate Kelly and Peggy Ramundo",Elliott Smith caltalog,Little Miss Sunshine
+48,Disorder,ADHD,"""The ADHD Effect on Marriage: Understand and Rebuild Your Relationship in Six Steps"" by Melissa Orlov -",All the way,Garden State
+49,Disorder,ADHD,"""Smart but Scattered: The Revolutionary ""Executive Skills"" Approach to Helping Kids Reach Their Potential"" by Peg Dawson, Ed.D., and Richard Guare,",Frank Turner - Get Better,"The Secret Life of Walter Mitty,"
+50,Disorder,ADHD,"""Taking Charge of ADHD, Third Edition: The Complete, Authoritative Guide for Parents"" by Russell A. Barkley -","Streetlight Manifesto - A better place, a better time",Ikiru
+51,Disorder,ADHD,"""ADHD: What Every Parent Needs to Know"" by Michael I. Reiff, M.D., and Ann L. Brennan,",Irie Revolté - Continuer,Stranger than Fiction
+52,Disorder,ADHD,"""Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"" by Edward M. Hallowell, M.D., and John J. Ratey, M.D.",Simon and Garfunkel - Bridge over troubled water,Under the Tuscan Sun
+53,Disorder,"Schizophrenia 
+","""The Center Cannot Hold: My Journey Through Madness"" by Elyn R. Saks -",Guards - Silver Lining,Whisper of the Heart
+54,Disorder,"Schizophrenia 
+",Hidden Valley road  by Robert Kolker,Daft Punk - One more time,Only Yesterday
+55,Disorder,"Schizophrenia 
+",The centre cannot hold : My journey through madness by Elyn Saks,Philter - Adventure Time,Everything Must Go
+56,Disorder,"Schizophrenia 
+",The day the voices stopped by Ken steele,Queen - Don't stop me now,AMELIE
+57,Disorder,"Schizophrenia 
+",A Kind of Mirraculas Paradise by Sandy Allen,WhoMadeWho - The sun,Big Fish
+58,Disorder,"Schizophrenia 
+", The Perfect Other: A Memoir of My Sister by Kyleigh Leddy,XX - VCR,Man of the Hour
+59,Disorder,"Schizophrenia 
+","""A Beautiful Mind"" by Sylvia Nasar -",Foals - Mountain at my gates,Everybody wants some
+60,Disorder,"Schizophrenia 
+","""The Quiet Room: A Journey Out of the Torment of Madness"" by Lori Schiller and Amanda Bennett -",Stromae - Ta fête,The way way back
+61,Disorder,"Schizophrenia 
+","""I Never Promised You a Rose Garden"" by Joanne Greenberg -",Postal Service - Such great Heights,It's kind of a funny story
+62,Disorder,"Schizophrenia 
+","""Surviving Schizophrenia: A Manual for Families, Patients, and Providers"" by E. Fuller Torrey -",Macklemore & Ryan Lewis - Can't hold us,Garden State
+63,Disorder,"Schizophrenia 
+","""The Collected Schizophrenias: Essays"" by Esmé Weijun Wang -",The Script - The Man who can't be moved,The perks of being a wallflower
+64,Disorder,"Schizophrenia 
+","""The Soloist: A Lost Dream, an Unlikely Friendship, and the Redemptive Power of Music"" by Steve Lopez -",Of Monsters and Men - Mountain Sound,Silver linings playbook
+65,Disorder,"Schizophrenia 
+","""Henry's Demons: Living with Schizophrenia, A Father and Son's Story"" by Patrick Cockburn and Henry Cockburn -",Mother Falcon - Marigold,Breakfast club
+66,Disorder,Bipolar,"""An Unquiet Mind: A Memoir of Moods and Madness"" by Kay Redfield Jamison -",Milow - Against the Tide,When Harry met Sally
+67,Disorder,Bipolar,"""An Unquiet Mind: A Memoir of Moods and Madness"" by Kay Redfield Jamison",MGMT - Kids,Dazed and Confused
+68,Disorder,Bipolar,"""Madness: A Bipolar Life"" by Marya Hornbacher",Given to Fly - Pearl Jam,Hangover (1st one)
+69,Disorder,Bipolar,"""Bipolar Happens! Taking Control of Bipolar Disorder"" by Julie A. Fast",30 Seconds to Mars - Kings and Queens,AIRPLANE
+70,Disorder,Bipolar,"""Welcome to the Jungle:"" by Hilary Smith",Float On- Modest Mouse,Forgetting Sarah Marshall.
+71,Disorder,Bipolar,"""Marbles: Mania, Depression, Michelangelo, and Me: A Graphic Memoir"" by Ellen Forney",It's Alright- Matt and Kim,When Silence of the Lambs came out
+72,Disorder,Bipolar,"""Electroboy: A Memoir of Mania"" by Andy Behrman",Kokomo by The Beach Boys,"""Silver Linings Playbook"" (2012) - "
+73,Disorder,Bipolar,"""Madness: A Bipolar Life"" by Marya Hornbacher -","""Anxiety"" by Julia Michaels ft. Selena Gomez -","""Anomalisa"" (2015) -Michael Stone  "
+74,Disorder,Bipolar,"""Marbles: Mania, Depression, Michelangelo, and Me: A Graphic Memoir"" by Ellen Forney -","""Breathe (2 AM)"" by Anna Nalick -","""Melancholia"" (2011) - both sisters"
+75,Disorder,Bipolar,"""Touched with Fire: Manic-Depressive Illness and the Artistic Temperament"" by Kay Redfield Jamison -","""Heavy"" by Linkin Park ft. Kiiara -","""Girl, Interrupted"" (1999) -"
+76,Disorder,Bipolar,"""Bipolar Disorder: A Guide for Patients and Families"" by Francis Mark Mondimore -","""Chlorine"" by Twenty One Pilots -","""The Perks of Being a Wallflower"" (2012) - charlie"
+77,Disorder,Bipolar,"""The Bipolar Disorder Survival Guide: What You and Your Family Need to Know"" by David J. Miklowitz -","""Don't Panic"" by Coldplay -","""It's Kind of a Funny Story"" (2010) -"
+78,Disorder,Bipolar,"""Haldol and Hyacinths: A Bipolar Life"" by Melody Moezzi -","""Control"" by Halsey -","""The Skeleton Twins"" (2014) - estranged siblings "
+79,Disorder,Bipolar,"""Electroboy: A Memoir of Mania"" by Andy Behrman","""Help!"" by The Beatles -","""Panic Room"" (2002) -"
+80,Disorder,"Depression
+",Feeling Good: The New Mood Therapy by David Burns,"""Unwell"" by Matchbox Twenty -","""Inside Out"" (2015) -  11-year-old girl "
+81,Disorder,"Depression
+",The Happiness Trap by Harris.,"""Demons"" by Imagine Dragons -","""Lilo & Stitch"" (2002) - LILO"
+82,Disorder,"Depression
+","""The consolation of philosophy"" by Alain De Botton.","""Mad World"" by Tears for Fears or Gary Jules -","""Kramer vs. Kramer"" (1979)"
+83,Disorder,"Depression
+","The Power of Vulnerability: Teachings on Authenticity, Connection, & Courage
+
+by Brené Brown","""Ain't No Sunshine"" by Bill Withers -","""I Am Sam"" (2001) -"
+84,Disorder,"Depression
+",Six Pillars of Self Esteem by Nathaniel Branden,"""Somebody That I Used to Know"" by Gotye ft. Kimbra -","""Mrs. Doubtfire"" (1993) -"
+85,Disorder,"Depression
+",How to Have a Good Day by Caroline Webb,"""I'm Not the Only One"" by Sam Smith -","""The Parent Trap"" (1998) -"
+86,Disorder,"Depression
+",The Obstacle Is The Way by Ryan Holiday,"""I Will Always Love You"" by Whitney Houston (originally by Dolly Parton) -","""Punch-Drunk Love"" (2002) -"
+87,Disorder,"Depression
+",Man's Search for Meaning,"""Don't Speak"" by No Doubt","""Matchstick Men"" (2003) -"
+88,Disorder,"Depression
+",Siddhartha,"""Someone Like You"" by Adele -","""Black Swan"" (2010) -"
+89,Disorder,"Depression
+",“The Charisma Myth”,"""Control"" by Halsey -","""Melancholia"" (2011) -"
+90,Disorder,"Depression
+",Unpopular opinion,"""Heavy"" by Linkin Park ft. Kiiara -","""Silver Linings Playbook"" (2012) - pat solitano"
+91,Disorder,"Depression
+",7 habits of highly effective people,"""Unsteady"" by X Ambassadors -","""The Perks of Being a Wallflower"" (2012) - charlie"
+92,Disorder,"Depression
+",sphere of influence party,"""Paralyzed"" by NF",Copycat (1995) - Sigourney Weaver
+93,Disorder,"Depression
+",The Subtle Art of Not Giving a Fuck — Mark Manson,"""Mad World"" by Tears for Fears or Gary Jules -",Panic Room (2002) -
+94,Disorder,"Depression
+",Ghost Boy by Martin Pistorius,"""Be Alright"" by Dean Lewis -",Agoraphobia (2015) -
+95,Disorder,"Depression
+",The Power of Habit,"""Outside"" by Staind",Shut In (2016) - Naomi Watts 
+96,Disorder,"Depression
+",Furiously Happy,"""Comfortably Numb"" by Pink Floyd -",Housebound (2014) -
+97,Disorder,"Depression
+",Unf*ck Yourself,"""Hello"" by Evanescence -",Touched with Fire (2015) - Katie Holmes and Luke Kirby.
+98,Disorder,"Depression
+",Get Out Of Your Mind and Into Your life by Dr. Steve Hayes,"""In My Room"" by The Beach Boys -",Silver Linings Playbook (2012) -  Bradley Cooper Jennifer Lawrence 
+99,Disorder,"Depression
+","""Your erroneous zones"" by Wayne Dyer.","""Runaway"" by Aurora","Matchstick Men (2003) - Starring Nicolas Cage,"
+100,Disorder,"Depression
+",The Wisdom of No Escape: How to Love Yourself and Your World - Pema Chodron ,"""Numb"" by Linkin Park",The Soloist (2009) - Jamie Foxx
+101,Disorder,"Depression
+",“When things fall apart” by Pema Chodron,"""How to Save a Life"" by The Fray -",The Aviator (2004) - Howard Hughes
+102,Disorder,"Depression
+","""The Confidence Gap"" by Russ Harris.","""Control"" by Halsey -",As Good as It Gets (1997) - Jack Nicholson
+103,Disorder,"Depression
+",Radical Self Love- Gala Darling,"""Every Breath You Take"" by The Police",To the bones
+104,Disorder,"Depression
+",Love Yourself Like Your Life Depends on it,"""So Am I"" by Ava Max -",The Perks of Being a Wallflower (2012) - CHARLIE 
+105,Disorder,"Depression
+",Radical Acceptance of Everything by Ann Weiser Cornell,"""Secrets"" by OneRepublic -",Starving in Suburbia (2014)
+106,Disorder,"Depression
+",Psycho Cybernetics by Maxwell Maltz,"""Boulevard of Broken Dreams"" by Green Day",To the Bone (2017) -  Lily Collins
+107,Disorder,"Depression
+","The Way of Kings, by Brandon Sanderson","""Breathe Me"" by Sia -",Nip/Tuck (TV Series) -
+108,Disorder,"Depression
+",Guards! Guards! By Terry Pratchett,"""Scars to Your Beautiful"" by Alessia Cara",Swallow (2019) -
+109,Disorder,"Depression
+",Got me through bouts of terrible depression and a miscarriage.,"""Just the Way You Are"" by Bruno Mars -",Perfection (2012) -
+110,Disorder,"Depression
+",Hyperbole and a Half (by Allie Brosh),"""All About That Bass"" by Meghan Trainor","Chris Kyle 
+(American Sniper)"
+111,Disorder,"Depression
+",The Discworld novels,"""Perfect"" by Pink -","Michèle Leblanc
+(Elle) "
+112,Disorder,"Depression
+",The Anthropocene Reviewed by John Green,"""Try"" by Colbie Caillat -","Parry 
+(The Fisher King)"
+113,Disorder,"Depression
+","Web comic - 
+Cursed Princess Club  https://www.webtoons.com/en/comedy/cursed-princess-club/list?title_no=1537  ","""Beautiful"" by Christina Aguilera","Max Klein 
+(Fearless) "
+114,Disorder,"Depression
+",Pachinko,"""Video"" by India.Arie","Tony Stark 
+(Iron Man 3 ) "
+115,Disorder,"Depression
+",Agatha Christie's books,"Safe and Sound - 
+Taylor Swift ",Marc spector/steven grant/ jake lockely (Moon knight)
+116,Disorder,"Depression
+",Summer lightning by P.G Woodhouse,"Survivor - Destiny's
+child ",jane/kay( Doom patrol)
+117,Disorder,"Depression
+",Lost Connections by Johann Hari,"You gotta be - 
+Des'ree",jane 9+ alters ( many sides of jane) 
+118,Disorder,"Depression
+",Lamb by Christopher Moore,"Keep breathing- 
+Ingrid Michaelson ",Eliot Anderson (Mr. Robot)
+119,Disorder,"Depression
+","""The Color of Magic"" ","Silence - 
+Marshello feat Khalid ",madison walker ( waking madison)
+120,Disorder,"Depression
+","""Small Gods.""", Valley of the Dolls by Marina ,tara gregson ( United states of Tara)
+121,Disorder,"Depression
+",cheer-up-at -all-costs, Eighth Wonder by Lemon Demon,Grace ( what if it works)
+122,Disorder,"Depression
+",The Antidote: Happiness for people who cannot stand positive thinking” by Oliver Burkeman.,Saturnz Barz by Gorillaz,Tyler durden ( Fight club)
+123,Disorder,"Depression
+","The Alchemist"" by Paulo Coelho",Music To Walk Home By by Tame Impala.,Genius ( frankie and alice) 
+124,Disorder,"Depression
+",The Glass Castle.,In The Wings by Mother Mother!,Busy inside
+125,Disorder,"Depression
+",A Prayer For Owen Meany by John Irving,"Jigsaw, by Conan Gray",hudson millbank ( Numb)
+126,Disorder,"Depression
+",The Mindful Way through Depression,"Nightmare, by Set It Off",john malkovich( being john malkovich) 
+127,Disorder,"Depression
+",The Upward Spiral,"Killer In The Mirror, by Set It Off",disco elysium ( RPG game)
+128,Disorder,"Depression
+",All the Light We Cannot See,"Look Who's Inside Again, by Bo Burnham",serial experiments lain ( anime) 
+129,Disorder,"Depression
+",Notes from Underground,"Right Brain, Left Brain, by Bo Burnham","Brittany Robinson
+Thin"
+130,Disorder,"Depression
+",Good Omens,Six Degrees of Inner Turbulence Part 2. - Dream Theater,"Perfect Body
+Andie Bradley"
+131,Disorder,"Depression
+",Reasons to Stay Alive by Matt Haig,black out days - phantogram,"Stella
+My skinny sister"
+132,Disorder,"Depression
+","FIRST, WE MAKE THE BEAST BEAUTIFUL BY SARAH WILSON",Afraid’ by the Neighbourhood ,"Camila
+Paula "
+133,Disorder,"Anxiety
+","""Anxious for Nothing: Finding Calm in a Chaotic World"" by Max Lucado -",‘Border Ch.III’ by Lewis Del Mar,Hannah - Starving in Suburbia
+134,Disorder,"Anxiety
+","""The Worry Trick: How Your Brain Tricks You into Expecting the Worst and What You Can Do About It"" by David A. Carbonell -",Achilles Come Down by Gang of Youths,Olivia - Feed
+135,Disorder,"Anxiety
+","""When Panic Attacks:by David D. Burns -",neon brother' from 'nothing but thieves',"Ellen
+To the bone"
+136,Disorder,"Anxiety
+","""Dare: The New Way to End Anxiety and Stop Panic Attacks"" by Barry McDonagh -",How to disappear completely by Radiohead,Secretary (2002) -  Maggie Gyllenhaal and James Spader 
+137,Disorder,"Anxiety
+","""First, We Make the Beast Beautiful: A New Journey Through Anxiety"" by Sarah Wilson -",The mind electric by Miracle Musical,The Sessions (2012) - John Hawkes & Helen Hunt
+138,Disorder,"Anxiety
+","""Dare: The New Way to End Anxiety and Stop Panic Attacks"" by Barry McDonagh - ",Texas by Mitski,"Don Jon (2013) - Joseph Gordon-Levitt, "
+139,Disorder,"Anxiety
+","""The Noonday Demon: An Atlas of Depression"" by Andrew Solomon -",The used - cathedral bells,Kinsey (2004) -  Alfred Kinsey
+140,Disorder,"Anxiety
+","""My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind"" by Scott Stossel",Siouxsie and the Banshees - Hall of Mirrors,Shame (2011) - Michael Fassbender 
+141,Disorder,"Anxiety
+","""The Anxiety and Phobia Workbook"" by Edmund J. Bourne -",Billy Talent - Surrender ,Brokeback Mountain (2005) - Heath Ledger and Jake Gyllenhaal
+142,Disorder,"Separation Anxiety Disorder
+","""The Invisible String"" by Patrice Karst -",Red - Faceless,Moonlight (2016) - chiron
+143,Disorder,"Separation Anxiety Disorder
+","""Attachment-Focused Parenting: Effective Strategies to Care for Children"" by Daniel A. Hughes -",A Mask of my Own Face - Lemon Demon,The Danish Girl (2015) -  Eddie Redmayne as Lili Elbe
+144,Disorder,"Separation Anxiety Disorder
+","""Helping Your Child Overcome Separation Anxiety or School Refusal: by Andrew R. Eisen and Linda B. Engler -",It's Happening Again - Agnes Obel,Carol (2015) - Rooney Mara Cate Blanchett
+145,Disorder,"Separation Anxiety Disorder
+","""Separation Anxiety in Children and Adolescents: An Individualized Approach to Assessment and Treatment"" by Andrew R. Eisen and Charles E. Schaefer -",Birdhouse in Your Soul - They Might be Giants,"Love, Simon (2018) - Nick Robinson"
+146,Disorder,"Separation Anxiety Disorder
+","""I Don't Want to Go to School"" by Nancy L. Carlson -",I Left My Body - They Might be Giants,"The Adventures of Priscilla, Queen of the Desert (1994) -"
+147,Disorder,"Separation Anxiety Disorder
+","""Wemberly Worried"" by Kevin Henkes",Teddy Bear - Melanie Martinez,Paris is Burning (1990) -
+148,Disorder,"Separation Anxiety Disorder
+","""The Kissing Hand"" by Audrey Penn -",still feel - half alive,Pride (2014) -
+149,Disorder,"Panic Disorder
+","""The Mindfulness and Acceptance Workbook for Anxiety: by John P. Forsyth and Georg H. Eifert -",I Am Not Me - KONGOS,The Butterfly Effect (2004) - Ashton Kutcher 
+150,Disorder,"Panic Disorder
+","""Panic: Origins, Insight, and Treatment"" by David V. Sheehan - ",Empty - Metric,A Clockwork Orange (1971) - alex
+151,Disorder,"Panic Disorder
+","""The 10 Best-Ever Anxiety Management Techniques: by Margaret Wehrenberg -",eight by sleeping at last ,We Need to Talk About Kevin (2011) - kevin
+152,Disorder,"Panic Disorder
+","""Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry"" by Catherine M. Pittman and Elizabeth M. Karle",Scars to your beautiful - Alessia Cara,"Rebel Without a Cause (1955) - Starring James Dean,"
+153,Disorder,"Panic Disorder
+","""Dying of Embarrassment:"" by Barbara G. Markway, C. Alec Pollard, Teresa Flynn, and Cheryl N. Carmin -",Victoria's Secret - Jax,The Good Son (1993) - Macaulay Culkin
+154,Disorder,"Panic Disorder
+","""The Panic Attacks Workbook: A Guided Program for Beating the Panic Trick"" by David Carbonell -",Waltz Moore — From First To Last,Matchstick Men (2003) - Nicolas Cage 
+155,Disorder,"Panic Disorder
+","""Don't Panic: Taking Control of Anxiety Attacks"" by Reid Wilson -",Sophie — Eleanor McEvoy,Antwone Fisher (2002) -  Derek Luke
+156,Disorder,"Panic Disorder
+","""Hope and Help for Your Nerves"" by Claire Weekes -",Tied Together With A Smile — Taylor Swift,The Bad Seed (1956) -
+157,Disorder,"Agoraphobia
+","""First, We Make the Beast Beautiful: A New Journey Through Anxiety"" by Sarah Wilson -",Pretty — Lauren Alaina,A Clockwork Orange (1971) - alex
+158,Disorder,"Agoraphobia
+","""My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind"" by Scott Stossel ",Somebody I Once Knew — Dead Celebrity Status,"Girl, Interrupted (1999) - Winona Ryder"
+159,Disorder,"Agoraphobia
+",LESBIAN CRUSHES AND BULIMIA: BY NATASHA HOLME,I Go Hungry — Mother Mother ,We Need to Talk About Kevin (2011) - Tilda Swinton
+160,Disorder,"Agoraphobia
+","""The Anxiety and Phobia Workbook"" by Edmund J. Bourne -",Anorexic Beauty — Pulp,American Psycho (2000) -  Christian Bale
+161,Disorder,"Agoraphobia
+","""Dare: The New Way to End Anxiety and Stop Panic Attacks"" by Barry McDonagh -",Control — Alexisonfire,Antisocial (2013) -
+162,Disorder,"Agoraphobia
+","""Agorafabulous!: Dispatches from My Bedroom"" by Sara Benincasa -","""Closer"" by Nine Inch Nails -",Trainspotting (1996) -
+163,Disorder,"Agoraphobia
+","""Agoraphobia: When Fear Keeps You From Living"" by Cheri L. Warren ","""Let's Get It On"" by Marvin Gaye -",Requiem for a Dream (2000) -
+164,Disorder,"Agoraphobia
+","""Freedom from Agoraphobia: Overcoming Anxiety Disorder & Rediscovering Your True Self"" by Dannie De Novo -","""Sexual Healing"" by Marvin Gaye -",The Basketball Diaries (1995) -  Leonardo DiCaprio
+165,Disorder,"OCD
+","""Kissing Doorknobs"" by Terry Spencer Hesser -","""I Want Your Sex"" by George Michael -",Flight (2012) - Denzel Washington
+166,Disorder,"OCD
+","""The Doubting Disease: Help for Scrupulosity and Religious Compulsions"" by Joseph W. Ciarrocchi -","""Touch My Body"" by Mariah Carey -",28 Days (2000) - Sandra Bullock 
+167,Disorder,"OCD
+","""Imp of the Mind: Exploring the Silent Epidemic of Obsessive Bad Thoughts"" by Lee Baer","""Tonight (Best You Ever Had)"" by John Legend ft. Ludacris",Beautiful Boy (2018) - Steve Carell
+168,Disorder,"OCD
+","""Freedom from Obsessive-Compulsive Disorder: A Personalized Recovery Program for Living with Uncertainty"" by Jonathan Grayson -","""Love to Love You Baby"" by Donna Summer -",Half Nelson (2006) - Ryan Gosling
+169,Disorder,"OCD
+","""Turtles All the Way Down"" by John Green -",girls- girl in red,"Girl, Interrupted (1999) - "
+170,Disorder,"OCD
+","""The OCD Workbook: "" by Bruce M. Hyman and Cherlene Pedrick -",Sofia- Clairo,American Psycho (2000) - Patrick Bateman
+171,Disorder,"OCD
+","""Brain Lock: Free Yourself from Obsessive-Compulsive Behavior"" by Jeffrey M. Schwartz -",Born this way- Lady Gaga,Silver Linings Playbook (2012) -
+172,Disorder,"OCD
+","""The Man Who Couldn't Stop: OCD and the True Story of a Life Lost in Thought"" by David Adam",Honey- Kehlani,One Flew Over the Cuckoo's Nest (1975) -
+173,Disorder,"Body Dysmorphic Disorder
+","""Reflections"" by Christina Pearson",Therefore I Am- Billie Eilish,Black Swan (2010) - Nina
+174,Disorder,"Body Dysmorphic Disorder
+","""The Broken Mirror:'' by Katharine A. Phillips -",Lemon boy- Cavetown,Split (2016) -
+175,Disorder,"Body Dysmorphic Disorder
+","""Life Without Ed ; by Jenni Schaefer -",Crush- Tessa Violet,The Lovely Bones (2009) -
+176,Disorder,"Body Dysmorphic Disorder
+","""BDD: A Guide to Caring for the Body Dysmorphic Disorder Sufferer"" by Claus V. Pedersen",Boy bi- Mad Tsai,Manchester by the Sea (2016) - Casey Affleck 
+177,Disorder,"Body Dysmorphic Disorder
+","""The Adonis Complex: "" by Harrison G. Pope Jr., Katharine A. Phillips, and Roberto Olivardia -",Girl Anarchronism- The Dresden Dolls,Ordinary People (1980) -
+178,Disorder,"Body Dysmorphic Disorder
+","""Overcoming Body Dysmorphic DisordeR : by Fugen Neziroglu, Sony Khemlani-Patel, and Melanie T. Santos -",Answer: Love Myself- BTS,A Monster Calls (2016) -
+179,Disorder,PTSD,"""The Deepest Well: Healing the Long-Term Effects of Childhood Adversity"" by Nadine Burke Harris -","""Breaking the Habit"" by Linkin Park -",Rabbit Hole (2010) -
+180,Disorder,PTSD,"Transformed by 
+trauma by R. Tedeschi 
+and B. Moore","""Headstrong"" by Trapt -",Up (2009) -
+181,Disorder,PTSD,"Struggle Well by 
+K. Falke and J. 
+Goldberg ","""Crawling"" by Linkin Park -",Three Colors: Blue (1993)
+182,Disorder,PTSD,"The complex PTSD 
+workbook by Dr 
+Arielle Schwartz","""Control"" by Halsey -",Marley & Me (2008) -
+183,Disorder,PTSD,"Oh, William! by
+ Elizabeth Strout","""Bad Reputation"" by Joan Jett -","Kathy, Randall
+(This is us)"
+184,Disorder,PTSD,"The body keeps 
+the score by Bessel 
+Kolk ","""Riot"" by Three Days Grace",Gaslight (1944) -
+185,Disorder,PTSD,"""Trauma and Recovery: The Aftermath of Violence - From Domestic Abuse to Political Terror"" by Judith Herman -","""Animal I Have Become"" by Three Days Grace",Sleeping with the Enemy (1991)
+186,Disorder,PTSD,"""On Combat: The Psychology and Physiology of Deadly Conflict in War and Peace"" by Dave Grossman -","""Psycho"" by Puddle of Mudd -",Enough (2002) - Jennifer Lopez
+187,Disorder,PTSD,"""It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle"" by Mark Wolynn -","""Bad Guy"" by Billie Eilish -",Big Little Lies (TV Series) -
+188,Disorder,PTSD,"""After the War Zone: A Practical Guide for Returning Troops and Their Families"" by Laurie B. Slone and Matthew J. Friedman -","""Smile Like You Mean It"" by The Killers",Notes on a Scandal (2006) -
+189,Disorder,PTSD,"""Tribe: On Homecoming and Belonging"" by Sebastian Junger -","""Love the Way You Lie"" by Eminem ft. Rihanna",
+190,Disorder,PTSD,"""The PTSD Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms"" by Mary Beth Williams and Soili Poijula -","""Control"" by Halsey -",
+191,Disorder,PTSD,"""The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"" by Bessel van der Kolk -","""Under the Bridge"" by Red Hot Chili Peppers -",
+192,Disorder,"Dissociative Disorders 
+","freshwater by Akwaeke Emezi
+ ","""Hurt"" by Johnny Cash (originally by Nine Inch Nails) -",
+193,Disorder,"Dissociative Disorders 
+", Dissociative Identity Disorder Sourcebook,"""Rehab"" by Amy Winehouse",
+194,Disorder,"Dissociative Disorders 
+",Stranger in the Mirror by sidney sheldon ,"""The A Team"" by Ed Sheeran -",
+195,Disorder,"Dissociative Disorders 
+","The Myth of Sanity : Divided Consciousness and the Promise of Awareness, martha Stout","""Swim"" by Jack's Mannequin -",
+196,Disorder,"Dissociative Disorders 
+","First Person Plural, by Dr Cameron West","""Breaking the Habit"" by Linkin Park -",
+197,Disorder,"Dissociative Disorders 
+","Me, Not-Me, and We: A Lived Experience Workbook for Phased Recovery from Complex and Relational Trauma with Dissociative Identity Response","""Sober"" by Demi Lovato -",
+198,Disorder,"Dissociative Disorders 
+",Turtles All the Way Down by John Green,"""Not Afraid"" by Eminem -",
+199,Disorder,"Dissociative Disorders 
+",A Fractured Mind: My Life with Multiple Personality Disorder- Robert B. Oxham,"""Mr. Brownstone"" by Guns N' Roses -",
+200,Disorder,"Dissociative Disorders 
+","Haunted Self: Structural Dissociation And Treatment Of Chronic Traumatization
+Book by Ellert R. S. Nijenhuis, Kathy Steele, and Onno van der Hart
+","""Behind Blue Eyes"" by The Who - ",
+201,Disorder,"Dissociative Disorders 
+",The Sum of My Parts: A Survivor's Story of Dissociative Identity Disorder,"""Human"" by Christina Perri -",
+202,Disorder,"Dissociative Disorders 
+",Recovery is my Best Revenge by Carolyn Spring,"""Control"" by Halsey -",
+203,Disorder,"Dissociative Disorders 
+",Cuckoo - Madison Clell (graphic novel memoir),"""Numb"" by Linkin Park -",
+204,Disorder,"Dissociative Disorders 
+",All in the Family - LB Lee (graphic novel memoir),"""Demons"" by Imagine Dragons -",
+205,Disorder,"Dissociative Disorders 
+",The Third Person - Emma Grove (graphic novel memoir),"""Boulevard of Broken Dreams"" by Green Day",
+206,Disorder,"Dissociative Disorders 
+","Coping with Trauma-Related Dissociation: Skills Training for Patients and Therapists – Suzette Boon, Kathy Steele, Onno van der Hart 2011","""Mad World"" by Tears for Fears or Gary Jules -",
+207,Disorder,"Dissociative Disorders 
+","The Trinity of Trauma: Ignorance, Fragility, and Control. – Ellert R.S. Nijenhuis 2014","""Tears in Heaven"" by Eric Clapton",
+208,Disorder,"Eating Disorders 
+",Life Without Ed: How One Woman Declared Independence from Her Eating Disorder and How You Can Too by Jenni Schaefer ,"""My Immortal"" by Evanescence -",
+209,Disorder,"Eating Disorders 
+",The body tourist by Dana Lise Shavin,"""I Will Remember You"" by Sarah McLachlan -",
+210,Disorder,"Eating Disorders 
+",LESBIAN CRUSHES AND BULIMIA: A DIARY ON HOW I ACQUIRED MY EATING DISORDER BY NATASHA HOLME,"""Hallelujah"" by Leonard Cohen",
+211,Disorder,"Eating Disorders 
+",It Was Me All Along By Andie Mitchell ,"""If Tomorrow Never Comes"" by Garth Brooks -",
+212,Disorder,"Eating Disorders 
+","The Eating Disorder Sourcebook: A Comprehensive Guide to the Causes, Treatments, and Prevention of Eating Disorders by Carolyn Costin","""Supermarket Flowers"" by Ed Sheeran -",
+213,Disorder,"Eating Disorders 
+","PLEASE EAT…: A MOTHER’S STRUGGLE TO FREE HER TEENAGE SON FROM ANOREXIA BY BEV MATTOCKS
+","""Wind Beneath My Wings"" by Bette Midler",
+214,Disorder,"Eating Disorders 
+",Brave Girl Eating: A Family's Struggle with Anorexia by Harriet Brown,"""See You Again"" by Wiz Khalifa ft. Charlie Puth -",
+215,Disorder,"Sexual Disorders
+","""Healing Sex: A Mind-Body Approach to Healing Sexual Trauma"" by Staci Haines -","""Nothing Compares 2 U"" by Sinead O'Connor -",
+216,Disorder,"Sexual Disorders
+","""Arousal: The Secret Logic of Sexual Fantasies"" by Michael J. Bader","""Fix You"" by Coldplay -",
+217,Disorder,"Sexual Disorders
+","""The Sexual Healing Journey: A Guide for Survivors of Sexual Abuse"" by Wendy Maltz -","""Gaslighter"" by The Chicks -",
+218,Disorder,"Sexual Disorders
+","""In Pursuit of the Secret Formula: Men, Women, and Why They Get Along the Way They Do"" by Juliet Grayson -","""Praying"" by Kesha -",
+219,Disorder,"Sexual Disorders
+","""Coping with Erectile Dysfunction: How to Regain Confidence and Enjoy Great Sex"" by Barry W. McCarthy and Michael E. Metz -","""Jar of Hearts"" by Christina Perri",
+220,Disorder,"Sexual Disorders
+","""The Sex-Starved Marriage: Boosting Your Marriage Libido: A Couple's Guide"" by Michele Weiner Davis -","""White Horse"" by Taylor Swift",
+221,Disorder,"Sexual Disorders
+","""Come as You Are: The Surprising New Science That Will Transform Your Sex Life"" by Emily Nagoski -","""Fighter"" by Christina Aguilera",
+222,Disorder,"Gender identity/Sexual orientation
+","""The Gendered Brain: by Gina Rippon -","""No More Drama"" by Mary J. Blige",
+223,Disorder,"Gender identity/Sexual orientation
+","""This Book Is Gay"" by Juno Dawson -","""Bust Your Windows"" by Jazmine Sullivan -",
+224,Disorder,"Gender identity/Sexual orientation
+","""Redefining Realness: My Path to Womanhood, Identity, Love & So Much More"" by Janet Mock -","""You Oughta Know"" by Alanis Morissette -",
+225,Disorder,"Gender identity/Sexual orientation
+","""The ABC's of LGBT+"" by Ashley Mardell -","""Black Widow"" by Iggy Azalea ft. Rita Ora -",
+226,Disorder,"Gender identity/Sexual orientation
+","""Sissy: A Coming-of-Gender Story"" by Jacob Tobia -",,
+227,Disorder,"Gender identity/Sexual orientation
+","""Beyond Magenta: Transgender Teens Speak Out"" by Susan Kuklin -",,
+228,Disorder,"Gender identity/Sexual orientation
+","""Bi: Notes for a Bisexual Revolution"" by Shiri Eisner -",,
+229,Disorder,"Gender identity/Sexual orientation
+","""The Velvet Rage: Overcoming the Pain of Growing Up Gay in a Straight Man's World"" by Alan Downs -",,
+230,Disorder,"Gender identity/Sexual orientation
+","""Queer: A Graphic History"" by Meg-John Barker and Julia Scheele -",,
+231,Disorder,"Gender identity/Sexual orientation
+","'The Picture of Dorian Gray"" by Oscar Wilde",,
+232,Disorder,"Impulse control/Conduct disorder
+","""The Good Kid Book: How to Solve the 16 Most Common Behavior Problems"" by Howard N. Sloane",,
+233,Disorder,"Impulse control/Conduct disorder
+","""Treating Conduct and Oppositional Defiant Disorders in Children"" by Arthur M. Horne and Peter Sturmey -",,
+234,Disorder,"Impulse control/Conduct disorder
+","""Conduct Disorders: A Clinician's Guide to Assessment and Treatment"" by John E. Lochman, W. Michael Nelson, and Brad Donohue -",,
+235,Disorder,"Impulse control/Conduct disorder
+","""Parenting a Child Who Has Intense Emotions: Dialectical Behavior Therapy Skills to Help Your Child Regulate Emotional Outbursts and Aggressive Behaviors"" by Pat Harvey and Jeanine A. Penzo -",,
+236,Disorder,"Impulse control/Conduct disorder
+","""Your Defiant Child: Eight Steps to Better Behavior"" by Russell A. Barkley and Christine M. Benton -",,
+237,Disorder,"Impulse control/Conduct disorder
+","""The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated, Chronically Inflexible Children"" by Ross W. Greene -",,
+238,Disorder,"Antisocial Personality Disorder
+","""American Psycho"" by Bret Easton Ellis:",,
+239,Disorder,"Antisocial Personality Disorder
+","""The Talented Mr. Ripley"" by Patricia Highsmith:",,
+240,Disorder,"Antisocial Personality Disorder
+","""Without Conscience: The Disturbing World of the Psychopaths Among Us"" by Dr. Robert D. Hare",,
+241,Disorder,"Antisocial Personality Disorder
+","""Snakes in Suits: When Psychopaths Go to Work"" by Dr. Paul Babiak and Dr. Robert D. Hare:",,
+242,Disorder,"Antisocial Personality Disorder
+","""The Psychopath Test: A Journey Through the Madness Industry"" by Jon Ronson:",,
+243,Disorder,"Antisocial Personality Disorder
+","""Confessions of a Sociopath: A Life Spent Hiding in Plain Sight"" by M.E. Thomas",,
+244,Disorder,"Addictive disorder/Addiction
+","""Clean: Overcoming Addiction and Ending America’s Greatest Tragedy"" by David Sheff:",,
+245,Disorder,"Addictive disorder/Addiction
+","""Addiction Recovery Management: by John F. Kelly and William L. White",,
+246,Disorder,"Addictive disorder/Addiction
+","""Unbroken Brain: A Revolutionary New Way of Understanding Addiction"" by Maia Szalavitz:",,
+247,Disorder,"Addictive disorder/Addiction
+","'Beautiful Boy: A Father's Journey Through His Son's Addiction"" by David Sheff:'",,
+248,Disorder,"Addictive disorder/Addiction
+","""Chasing the Scream: The First and Last Days of the War on Drugs"" by Johann Hari:",,
+249,Disorder,"Addictive disorder/Addiction
+","""In the Realm of Hungry Ghosts: Close Encounters with Addiction"" by Gabor Maté: Dr. Gabor Maté,",,
+250,Disorder,"Addictive disorder/Addiction
+","""Addiction: A Disorder of Choice"" by Gene M. Heyman:",,
+251,Disorder,"Addictive disorder/Addiction
+","""Memoirs of an Addicted Brain: A Neuroscientist Examines His Former Life on Drugs"" by Marc Lewis:",,
+252,Disorder,"Addictive disorder/Addiction
+","""The Recovery Book: Answers to All Your Questions About Addiction and Alcoholism and Finding Health and Happiness in Sobriety"" by Al J. Mooney, Catherine Dold, and Howard Eisenberg",,
+253,Disorder,Personality disorder,"""I Hate You—Don't Leave Me:",,
+254,Disorder,Personality disorder,"""The Borderline Personality Disorder Survival Guide: Everything You Need to Know About Living with BPD"" by Alexander L. Chapman and Kim L. Gratz",,
+255,Disorder,Personality disorder,"""Malignant Self-love: Narcissism Revisited"" by Sam Vaknin -",,
+256,Disorder,Personality disorder,"""The Psychopath Test: A Journey Through the Madness Industry"" by Jon Ronson",,
+257,Disorder,Personality disorder,"""Stop Walking on Eggshells: Taking Your Life Back When Someone You Care About Has Borderline Personality Disorder"" by Paul T. Mason and Randi Kreger -",,
+258,Disorder,Personality disorder,"""The Narcissism Epidemic: Living in the Age of Entitlement"" by Jean M. Twenge and W. Keith Campbell",,
+259,Disorder,Personality disorder,"""The Sociopath Next Door: The Ruthless Versus the Rest of Us"" by Martha Stout",,
+260,Disorder,Grief,"""Healing After Loss: Daily Meditations For Working Through Grief"" by Martha Whitmore Hickman -",,
+261,Disorder,Grief,"The year for Magical 
+Thinking 
+- Joan Didion",,
+262,Disorder,Grief,"On death and dying 
+- Elisabeth Kubler Ross",,
+263,Disorder,Grief,"The courage to grief
+- Judy Tatelbaum,
+Joan Tate",,
+264,Disorder,Grief,"The other side of sadness
+- George A Bonanno",,
+265,Disorder,Grief,"""Grief Day by Day: Simple Practices and Daily Guidance for Living with Loss"" by Jan Warner",,
+266,Disorder,Grief,"""It's Okay That You're Not Okay: Meeting Grief and Loss in a Culture That Doesn't Understand"" by Megan Devine",,
+267,Disorder,Grief,"""The Widow's Journal: Questions to Guide You through Grief and Life Planning After the Loss of a Partner"" by Joanne L. Moore -",,
+268,Disorder,Grief,"""A Grief Observed"" by C.S. Lewis",,
+269,Disorder,Grief,"""When Breath Becomes Air"" by Paul Kalanithi",,
+270,Disorder,Grief,"""The Year of Magical Thinking"" by Joan Didion",,
+271,Disorder,Grief,"""Option B: Facing Adversity, Building Resilience, and Finding Joy"" by Sheryl Sandberg and Adam Grant",,
+272,Disorder,Narcissistic Abuse,"""Becoming the Narcissist's Nightmare: How to Devalue and Discard the Narcissist While Supplying Yourself"" by Shahida Arabi",,
+273,Disorder,Narcissistic Abuse,"""Psychopath Free: Recovering from Emotionally Abusive Relationships With Narcissists, Sociopaths, and Other Toxic People"" by Jackson MacKenzie",,
+274,Disorder,Narcissistic Abuse,"""The Covert Passive-Aggressive Narcissist: Recognizing the Traits and Finding Healing After Hidden Emotional and Psychological Abuse"" by Debbie Mirza",,
+275,Disorder,Narcissistic Abuse,"""Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma"" by Pete Walker -",,
+276,Disorder,Narcissistic Abuse,"""Healing from Hidden Abuse: A Journey Through the Stages of Recovery from Psychological Abuse"" by Shannon Thomas -",,
+277,Disorder,Narcissistic Abuse,"""The Gaslight Effect: How to Spot and Survive the Hidden Manipulation Others Use to Control Your Life"" by Dr. Robin Stern",,
+278,Disorder,Narcissistic Abuse,"""Will I Ever Be Free of You?: How to Navigate a High-Conflict Divorce from a Narcissist and Heal Your Family"" by Karyl McBride, Ph.D.",,
+0,Procrastination,Fear of failure,"""Daring Greatly"" by Brené Brown",,"""Whiplash"" (2014)"
+1,Procrastination,Fear of failure,"""Mindset: The New Psychology of Success"" by Carol S. Dweck:",,"""Black Swan"" (2010)"
+2,Procrastination,Fear of failure,"""The Art of Possibility"" by Rosamund Stone Zander and Benjamin Zander:",,"""The Pursuit of Happyness"" (2006)"
+3,Procrastination,Fear of failure,"""Failing Forward: Turning Mistakes into Stepping Stones for Success"" by John C. Maxwell:",,"""Rocky"" (1976)"
+4,Procrastination,Fear of failure,"""The Subtle Art of Not Giving a F*ck"" by Mark Manson",,"""Silver Linings Playbook"" (2012)"
+5,Procrastination,Fear of failure,"""You Are a Badass"" by Jen Sincero:",,"""Billy Elliot"" (2000)"
+6,Procrastination,Fear of failure,,,"""Her"" (2013)"
+7,Procrastination,Fear of failure,,,"""Little Miss Sunshine"" (2006)"
+8,Procrastination,Perfectionism,"""Perfectionism: What's Bad About Being Too Good?"" by Miriam Adderholdt-Elliott and Jan Goldberg:",,"""Birdman"" (2014)"
+9,Procrastination,Perfectionism,"""The Pursuit of Perfect: How to Stop Chasing Perfection and Start Living a Richer, Happier Life"" by Tal Ben-Shahar",,"""The Aviator"" (2004)"
+10,Procrastination,Perfectionism,"""Perfectionism and Gifted Children"" by Rosemary Callard-Szulgit",,"""American Psycho"" (2000)"
+11,Procrastination,Perfectionism,"""Too Perfect: When Being in Control Gets Out of Control"" by Allan E. Mallinger and Jeannette De Wyze:",,"""The Social Network"" (2010)"
+12,Procrastination,Perfectionism,"""Perfectionism: A Relational Approach to Conceptualization, Assessment, and Treatment"" by Paul L. Hewitt and Gordon L. Flett",,"""The Devil Wears Prada"" (2006)"
+13,Procrastination,Perfectionism,"""The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are"" by Brené Brown",,"""Silver Linings Playbook"" (2012)"
+14,Procrastination,All or none thinking,"""The Cognitive Behavioral Workbook for Depression: A Step-by-Step Program"" by William J. Knaus and Albert Ellis",,"""Silver Linings Playbook"" (2012)"
+15,Procrastination,All or none thinking,"""Feeling Good: The New Mood Therapy"" by David D. Burns:",,"""The Perks of Being a Wallflower"" (2012)"
+16,Procrastination,All or none thinking,"""Mind Over Mood: Change How You Feel by Changing the Way You Think"" by Dennis Greenberger and Christine A. Padesky",,"""A Beautiful Mind"" (2001)"
+17,Procrastination,All or none thinking,"""The Feeling Good Handbook"" by David D. Burns:",,"""Fight Club"" (1999)"
+18,Procrastination,All or none thinking,"""The Happiness Trap: How to Stop Struggling and Start Living: A Guide to ACT"" by Russ Harris",,"""Requiem for a Dream"" (2000) -"
+19,Procrastination,All or none thinking,"""Change Your Thinking with CBT: Overcome Stress, Combat Anxiety and Improve Your Life"" by Dr. Sarah Edelman:",,"""Melancholia"" (2011) -"
+20,Procrastination,All or none thinking,,,"""Silver Linings Playbook"" (2012)"
+21,Procrastination,Overthinking,"""The Worry Trick: How Your Brain Tricks You into Expecting the Worst and What You Can Do About It"" by David A. Carbonell",,"""Eternal Sunshine of the Spotless Mind"" (2004)"
+22,Procrastination,Overthinking,"""Chatter: The Voice in Our Head, Why It Matters, and How to Harness It"" by Ethan Kross:",,"""Annie Hall"" (1977)"
+23,Procrastination,Overthinking,"""The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play"" by Neil Fiore",,"""Adaptation"" (2002) -"
+24,Procrastination,Overthinking,"""Declutter Your Mind: How to Stop Worrying, Relieve Anxiety, and Eliminate Negative Thinking"" by S.J. Scott and Barrie Davenport",,"""Inside Out"" (2015)"
+25,Procrastination,Overthinking,"""The Power of Now: A Guide to Spiritual Enlightenment"" by Eckhart Tolle:",,"""High Anxiety"" (1977)"
+26,Procrastination,Overthinking,"""How to Stop Overthinking: 23 Techniques to Relieve Stress, Stop Negative Spirals, Declutter Your Mind, and Focus on the Present"" by Nathan Weaver",,"""It's Kind of a Funny Story"" (2010)"
+27,Procrastination,Overthinking,,,"""Silver Linings Playbook"" (2012) -"
+28,Procrastination,Lack of motivation,"""The Motivation Myth: How High Achievers Really Set Themselves Up to Win"" by Jeff Haden",,"""Office Space"" (1999)"
+29,Procrastination,Lack of motivation,"""Drive: The Surprising Truth About What Motivates Us"" by Daniel H. Pink:",,"""Lost in Translation"" (2003)"
+30,Procrastination,Lack of motivation,"""Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"" by James Clear",,"""Into the Wild"" (2007)"
+31,Procrastination,Lack of motivation,"""Grit: The Power of Passion and Perseverance"" by Angela Duckworth:",,"""The Secret Life of Walter Mitty"" (2013)"
+32,Procrastination,Lack of motivation,"""Mindset: The New Psychology of Success"" by Carol S. Dweck:",,"""Good Will Hunting"" (1997) -"
+33,Procrastination,Lack of motivation,"""The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage"" by Mel Robbins",,"""Garden State"" (2004)"
+34,Procrastination,Lack of motivation,,,"""The Pursuit of Happyness"" (2006)"
+35,Procrastination,Boredom,"""The Joy of Missing Out: Live More by Doing Less"" by Tanya Dalton",,"""Fight Club"" (1999)"
+36,Procrastination,Boredom,"""Boredom: A Lively History"" by Peter Toohey",,"""A Ghost Story"" (2017)"
+37,Procrastination,Boredom,"""Flow: The Psychology of Optimal Experience"" by Mihaly Csikszentmihalyi:",,"""Lost in Translation"" (2003)"
+38,Procrastination,Boredom,"""Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self"" by Manoush Zomorodi:",,"""The Darjeeling Limited"" (2007)"
+39,Procrastination,Boredom,"""The Book of Doing: Everyday Activities to Unlock Your Creativity and Joy"" by Allison Arden:",,"""The Graduate"" (1967)"
+40,Procrastination,Boredom,"""Boredom: A Lively History"" by Peter Toohey:",,"""Anomalisa"" (2015)"
+41,Procrastination,Boredom,,,"""Barton Fink"" (1991)"
+42,Procrastination,Lack of interest," ""The Spark: Igniting the Passion, Mystery, and Romance in Your Life"" by Chris Downie",,"""American Beauty"" (1999)"
+43,Procrastination,Lack of interest,"""The Joy of Not Thinking: A Radical Approach to Happiness"" by Tim Grimes:",,"""The Truman Show"" (1998)"
+44,Procrastination,Lack of interest,"""The Curiosity Principle: A Revolutionary Guide to Putting Your Life in High Gear"" by Brian Grazer",,"""Lost in Translation"" (2003)"
+45,Procrastination,Lack of interest,"""Lost and Founder: A Painfully Honest Field Guide to the Startup World"" by Rand Fishkin:",,"""Office Space"" (1999)"
+46,Procrastination,Lack of interest,"""The Art of Possibility"" by Rosamund Stone Zander and Benjamin Zander",,"""Adaptation"" (2002)"
+47,Procrastination,Lack of interest,"""Reclaiming Conversation: The Power of Talk in a Digital Age"" by Sherry Turkle:",,"""Stranger Than Fiction"" (2006)"
+48,Procrastination,Lack of interest,,,"""Synecdoche, New York"" (2008)"
+49,Procrastination,Poor goal setting,"""S.M.A.R.T. Goals Made Simple: 10 Steps to Master Your Personal and Career Goals"" by S.J. Scott:",,"""Up in the Air"" (2009)"
+50,Procrastination,Poor goal setting,"""Finish: Give Yourself the Gift of Done"" by Jon Acuff",,"""Click"" (2006) -"
+51,Procrastination,Poor goal setting,"""Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals"" by Michael Hyatt:",,"""American Beauty"" (1999)"
+52,Procrastination,Poor goal setting,"""Mindset: The New Psychology of Success"" by Carol S. Dweck:",,"""The Pursuit of Happyness"" (2006)"
+53,Procrastination,Poor goal setting,"""The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months"" by Brian P. Moran and Michael Lennington:",,"""The Disaster Artist"" (2017)"
+54,Procrastination,Poor goal setting,"""Goals!: How to Get Everything You Want—Faster Than You Ever Thought Possible"" by Brian Tracy",,"""The Great Gatsby"" (2013)"
+55,Procrastination,Poor goal setting,,,"""The Secret Life of Pets"" (2016)"
+56,Procrastination,Poor decision making,"""Emotional Intelligence: Why It Can Matter More Than IQ"" by Daniel Goleman",,"""Falling Down"" (1993)"
+57,Procrastination,Poor decision making,"""Decision Making For Dummies"" by Dawna Jones",,"""The Butterfly Effect"" (2004) -"
+58,Procrastination,Poor decision making,"""Blink: The Power of Thinking Without Thinking"" by Malcolm Gladwell",,"""Requiem for a Dream"" (2000)"
+59,Procrastination,Poor decision making,"""The Paradox of Choice: Why More Is Less"" by Barry Schwartz:",,"""Memento"" (2000) -"
+60,Procrastination,Poor decision making,"""Predictably Irrational: The Hidden Forces That Shape Our Decisions"" by Dan Ariely:",,"""No Country for Old Men"" (2007)"
+61,Procrastination,Poor decision making,"""Decisive: How to Make Better Choices in Life and Work"" by Chip Heath and Dan Heath:",,"""Scarface"" (1983)"
+62,Procrastination,Poor decision making,,,"""Trainspotting"" (1996)"
+63,Procrastination,Low self-esteem,"""The Six Pillars of Self-Esteem"" by Nathaniel Branden:",,"""Perks of Being a Wallflower"" (2012)"
+64,Procrastination,Low self-esteem,"""Self-Compassion: The Proven Power of Being Kind to Yourself"" by Kristin Neff:",,"""The Breakfast Club"" (1985)"
+65,Procrastination,Low self-esteem,"""Feeling Good: The New Mood Therapy"" by David D. Burns:",,"""Little Miss Sunshine"" (2006) -"
+66,Procrastination,Low self-esteem,"""Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"" by Brené Brown:",,"""Juno"" (2007) -"
+67,Procrastination,Low self-esteem,"""The Self-Esteem Workbook"" by Glenn R. Schiraldi",,"""Welcome to the Dollhouse"" (1995)"
+68,Procrastination,Low self-esteem,"""Mind Over Mood: Change How You Feel by Changing the Way You Think"" by Dennis Greenberger and Christine A. Padesky",,"""Easy A"" (2010) -"
+69,Procrastination,Low self-esteem,,,"""Muriel's Wedding"" (1994)"
+70,Procrastination,Anxiety,"""First, We Make the Beast Beautiful: A New Journey Through Anxiety"" by Sarah Wilson:",,"""Hereditary"" (2018)"
+71,Procrastination,Anxiety,"""Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry"" by Catherine M. Pittman and Elizabeth M. Karle:",,"""The King's Speech"" (2010) -"
+72,Procrastination,Anxiety,"""Anxiety: The Missing Stage of Grief: A Revolutionary Approach to Understanding and Healing the Impact of Loss"" by Claire Bidwell Smith",,"""Girl, Interrupted"" (1999)"
+73,Procrastination,Anxiety,"""The Feeling Good Handbook"" by David D. Burns",,"""It's Kind of a Funny Story"" (2010)"
+74,Procrastination,Anxiety,"""The Worry Trick: How Your Brain Tricks You into Expecting the Worst and What You Can Do About It"" by David A. Carbonell",,"""Melancholia"" (2011)"
+75,Procrastination,Anxiety,"""My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind"" by Scott Stossel:",,"""Anxiety"" (2019) -"
+76,Procrastination,Anxiety,,,"""Silver Linings Playbook"" (2012)"
+77,Procrastination,Distractions,"""Deep Work: Rules for Focused Success in a Distracted World"" by Cal Newport",,"""Click"" (2006)"
+78,Procrastination,Distractions,"""Indistractable: How to Control Your Attention and Choose Your Life"" by Nir Eyal",,"""The Social Network"" (2010)"
+79,Procrastination,Distractions,"""Digital Minimalism: Choosing a Focused Life in a Noisy World"" by Cal Newport",,"""Eternal Sunshine of the Spotless Mind"" (2004)"
+80,Procrastination,Distractions,"""Hyperfocus: How to Be More Productive in a World of Distraction"" by Chris Bailey",,"""Adaptation"" (2002)"
+81,Procrastination,Distractions,"""The Shallows: What the Internet Is Doing to Our Brains"" by Nicholas Carr",,"""The Secret Life of Walter Mitty"" (2013)"
+82,Procrastination,Distractions,"""Make Time: How to Focus on What Matters Every Day"" by Jake Knapp and John Zeratsky",,"""Inception"" (2010)"
+83,Procrastination,Distractions,,,"""Lost in Translation"" (2003) -"
+84,Procrastination,Lack of discipline,"""The Power of Habit: Why We Do What We Do in Life and Business"" by Charles Duhigg:",,"""The Pursuit of Happyness"" (2006)"
+85,Procrastination,Lack of discipline,"""Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"" by James Clear:",,"""Leaving Las Vegas"" (1995) -"
+86,Procrastination,Lack of discipline,"""Mindset: The New Psychology of Success"" by Carol S. Dweck:",,"""Requiem for a Dream"" (2000)"
+87,Procrastination,Lack of discipline,"""No Excuses!: The Power of Self-Discipline"" by Brian Tracy",,"""Half Nelson"" (2006)"
+88,Procrastination,Lack of discipline,"""Self-Discipline in 10 Days: How to Go from Thinking to Doing"" by Theodore Bryant:",,"""Catch Me If You Can"" (2002) -"
+89,Procrastination,Lack of discipline,"""The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)"" by Hal Elrod:",,"""Bad Santa"" (2003)"
+90,Procrastination,Lack of discipline,,,"""Rounders"" (1998) -"
+91,Procrastination,Focus and concentration problem,"""Deep Work: Rules for Focused Success in a Distracted World"" by Cal Newport",,"""Limitless"" (2011) -"
+92,Procrastination,Focus and concentration problem,"""Hyperfocus: How to Be More Productive in a World of Distraction"" by Chris Bailey",,"""A Beautiful Mind"" (2001) -"
+93,Procrastination,Focus and concentration problem,"""Focus: The Hidden Driver of Excellence"" by Daniel Goleman",,"""Good Will Hunting"" (1997) -"
+94,Procrastination,Focus and concentration problem,"""Mindfulness in Plain English"" by Bhante Henepola Gunaratana",,"""Forrest Gump"" (1994)"
+95,Procrastination,Focus and concentration problem,"""The Practicing Mind: Developing Focus and Discipline in Your Life"" by Thomas M. Sterner",,"""Rain Man"" (1988)"
+96,Procrastination,Focus and concentration problem,"""Concentration: The Road to Success"" by Henry Harrison Brown",,"""Take Shelter"" (2011)"
+97,Procrastination,Focus and concentration problem,,,"""The Secret Life of Walter Mitty"" (2013)"
+98,Procrastination,Fear of success,"""The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level"" by Gay Hendricks",,"""The Devil Wears Prada"" (2006"
+99,Procrastination,Fear of success,"""Feel the Fear and Do It Anyway"" by Susan Jeffers",,"""La La Land"" (2016) -"
+100,Procrastination,Fear of success,"""Mindset: The New Psychology of Success"" by Carol S. Dweck",,"""Whiplash"" (2014) -"
+101,Procrastination,Fear of success,"""The Art of Possibility"" by Rosamund Stone Zander and Benjamin Zander",,"""Rocky"" (1976)"
+102,Procrastination,Fear of success,"""You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life"" by Jen Sincero",,"""Flashdance"" (1983)"
+103,Procrastination,Fear of success,"""The War of Art: Break Through the Blocks and Win Your Inner Creative Battles"" by Steven Pressfield",,"""Good Will Hunting"" (1997)"
+104,Procrastination,Fear of criticism or judgement,"""The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are"" by Brené Brown",,"""The Pursuit of Happyness"" (2006)"
+105,Procrastination,Fear of criticism or judgement,"""Overcoming Social Anxiety and Shyness: A Self-Help Guide Using Cognitive Behavioral Techniques"" by Gillian Butler",,
+106,Procrastination,Fear of criticism or judgement,"""Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"" by Brené Brown",,
+107,Procrastination,Fear of criticism or judgement,"""Feel the Fear and Do It Anyway"" by Susan Jeffers",,
+108,Procrastination,Fear of criticism or judgement,"""Quiet: The Power of Introverts in a World That Can't Stop Talking"" by Susan Cain",,
+109,Procrastination,Fear of criticism or judgement,"""The Anxiety and Phobia Workbook"" by Edmund J. Bourne",,
+110,Procrastination,Fear of unknown,"""Feel the Fear and Do It Anyway"" by Susan Jeffers",,
+111,Procrastination,Fear of unknown,"""The Antidote: Happiness for People Who Can't Stand Positive Thinking"" by Oliver Burkeman",,
+112,Procrastination,Fear of unknown,"""Embracing Uncertainty: Breakthrough Methods for Achieving Peace of Mind When Facing the Unknown"" by Susan Jeffers",,
+113,Procrastination,Fear of unknown,"""The Power of Now: A Guide to Spiritual Enlightenment"" by Eckhart Tolle",,
+114,Procrastination,Fear of unknown,"""Unf*ck Your Brain: Using Science to Get Over Anxiety, Depression, Anger, Freak-outs, and Triggers"" by Faith G. Harper",,
+115,Procrastination,Fear of unknown,"""Letting Go of the Words: Writing Web Content that Works"" by Ginny Redish",,
+116,Procrastination,Imposter syndrome,"""The Secret Thoughts of Successful Women: Why Capable People Suffer from the Impostor Syndrome and How to Thrive in Spite of It"" by Valerie Young",,
+117,Procrastination,Imposter syndrome,"""The Impostor Syndrome Remedy: A 30-Day Action Plan to Stop Feeling Like a Fraud"" by E.V. Estacio:",,
+118,Procrastination,Imposter syndrome,"""Lean Out: The Struggle for Gender Equality in Tech and Start-Up Culture"" edited by Elissa Shevinsky:",,
+119,Procrastination,Imposter syndrome,"""Overcoming Impostor Syndrome: Ten Strategies to Stop Feeling Like a Fraud at Work"" by Elizabeth B. McGrath:",,
+120,Procrastination,Imposter syndrome,"""Overcoming Impostor Syndrome: Ten Strategies to Stop Feeling Like a Fraud at Work"" by Elizabeth B. McGrath:",,
+121,Procrastination,Imposter syndrome,"""Mindset: The New Psychology of Success"" by Carol S. Dweck",,
+122,Procrastination,Lack of infromation,"""The Art of Thinking Clearly"" by Rolf Dobelli",,
+123,Procrastination,Lack of infromation,"""The Signal and the Noise: Why So Many Predictions Fail — but Some Don't"" by Nate Silver:",,
+124,Procrastination,Lack of infromation,"""Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think"" by Hans Rosling",,
+125,Procrastination,Lack of infromation,"""Information Anxiety 2"" by Richard Saul Wurman",,
+126,Procrastination,Lack of infromation,"""The Filter Bubble: What the Internet Is Hiding from You"" by Eli Pariser:",,
+127,Procrastination,Lack of infromation,"""Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"" by Annie Duke",,
+128,Procrastination,Poor time management,"Getting Things Done: The Art of Stress-Free Productivity"" by David Allen",,
+129,Procrastination,Poor time management,"""Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time"" by Brian Tracy",,
+130,Procrastination,Poor time management,"""The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage"" by Mel Robbins",,
+131,Procrastination,Poor time management,"""The Pomodoro Technique"" by Francesco Cirillo",,
+132,Procrastination,Poor time management,"""Make Time: How to Focus on What Matters Every Day"" by Jake Knapp and John Zeratsky:",,
+133,Procrastination,Poor time management,"""Deep Work: Rules for Focused Success in a Distracted World"" by Cal Newport:",,
+134,Procrastination,Lack of Emotional management skills,"""Emotional Intelligence: Why It Can Matter More Than IQ"" by Daniel Goleman:",,
+135,Procrastination,Lack of Emotional management skills,"""Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life"" by Susan David",,
+136,Procrastination,Lack of Emotional management skills,"""The Language of Emotions: What Your Feelings Are Trying to Tell You"" by Karla McLaren:",,
+137,Procrastination,Lack of Emotional management skills,"""The Dialectical Behavior Therapy Skills Workbook: Practical DBT Exercises for Learning Mindfulness, Interpersonal Effectiveness, Emotion Regulation & Distress Tolerance"" by Matthew McKay, Jeffrey C. Wood, and Jeffrey Brantley",,
+138,Procrastination,Lack of Emotional management skills,"""Radical Acceptance: Embracing Your Life With the Heart of a Buddha"" by Tara Brach",,
+139,Procrastination,Lack of Emotional management skills,"""The Highly Sensitive Person: How to Thrive When the World Overwhelms You"" by Elaine N. Aron:",,
+0,Relatoinship issues,Fears intimacy/abandonment/humiliation/betrayal,"""The Fault in Our Stars"" by John Green","""Breathe Me"" by Sia",Annie Hall (1977)
+1,Relatoinship issues,Fears intimacy/abandonment/humiliation/betrayal,"""Eleanor Oliphant Is Completely Fine"" by Gail Honeyman","""Stay"" by Rihanna ft. Mikky Ekko",Her (2013)
+2,Relatoinship issues,Fears intimacy/abandonment/humiliation/betrayal,"""High Fidelity"" by Nick Hornby","""Someone Like You"" by Adele",Gone Girl (2014)
+3,Relatoinship issues,Fears intimacy/abandonment/humiliation/betrayal,"""Carrie"" by Stephen King","""Jar of Hearts"" by Christina Perri",Closer (2004)
+4,Relatoinship issues,Fears intimacy/abandonment/humiliation/betrayal,"""The Bell Jar"" by Sylvia Plath","""Skinny Love"" by Bon Iver",Blue Valentine (2010)
+5,Relatoinship issues,Fears intimacy/abandonment/humiliation/betrayal,"""American Psycho"" by Bret Easton Ellis","""With or Without You"" by U2",
+6,Relatoinship issues,Consent and boundaries,"""The Gift of Fear"" by Gavin de Becker","""No"" by Meghan Trainor",Disobedience (2017)
+7,Relatoinship issues,Consent and boundaries,"""The Boundaries Book"" by Cloud and Townsend","""Respect"" by Aretha Franklin",The Diary of a Teenage Girl (2015)
+8,Relatoinship issues,Consent and boundaries,"""Yes Means Yes!: Visions of Female Sexual Power and a World Without Rape"" edited by Jaclyn Friedman and Jessica Valenti","""Boundaries"" by Lauren Jauregui",Mysterious Skin (2004)
+9,Relatoinship issues,Consent and boundaries,"""Asking for It: The Alarming Rise of Rape Culture—and What We Can Do About It"" by Kate Harding","""Just a Little Bit of Your Heart"" by Ariana Grande",Compliance (2012)
+10,Relatoinship issues,Consent and boundaries,"""Girls & Sex: Navigating the Complicated New Landscape"" by Peggy Orenstein","""Say Yes"" by Floetry",The Sessions (2012)
+11,Relatoinship issues,Consent and boundaries,"""The Female Advantage: Women's Ways of Leadership"" by Sally Helgesen","""Hands to Myself"" by Selena Gomez",
+12,Relatoinship issues,Loss of interest/indecisiveness,"""The Catcher in the Rye"" by J.D. Salinger","""I Don't Want to Miss a Thing"" by Aerosmith",Lost in Translation (2003)
+13,Relatoinship issues,Loss of interest/indecisiveness,"""The Unbearable Lightness of Being"" by Milan Kundera","""The Scientist"" by Coldplay",American Beauty (1999)
+14,Relatoinship issues,Loss of interest/indecisiveness,"""Slouching Towards Bethlehem"" by Joan Didion","""Fade into You"" by Mazzy Star",Garden State (2004) 
+15,Relatoinship issues,Loss of interest/indecisiveness,"""The Bell Jar"" by Sylvia Plath","""I'm Not In Love"" by 10cc",Into the Wild (2007)
+16,Relatoinship issues,Loss of interest/indecisiveness,"""The Stranger"" by Albert Camus","""Un-Break My Heart"" by Toni Braxton",Annie Hall (1977)
+17,Relatoinship issues,Loss of interest/indecisiveness,"""The Age of Innocence"" by Edith Wharton","""Boulevard of Broken Dreams"" by Green Day",
+18,Relatoinship issues,Limerance,"""Wuthering Heights"" by Emily Brontë","""Lovesick"" by Banks",The Great Gatsby
+19,Relatoinship issues,Limerance,"""The Great Gatsby"" by F. Scott Fitzgerald","""Crush"" by David Archuleta","Crazy, Stupid, Love. (2011)"
+20,Relatoinship issues,Limerance,"""The Thorn Birds"" by Colleen McCullough","""I Will Possess Your Heart"" by Death Cab for Cutie",500 Days of Summer (2009)
+21,Relatoinship issues,Limerance,"""Rebecca"" by Daphne du Maurier","""Every Breath You Take"" by The Police",Amélie (2001) -
+22,Relatoinship issues,Limerance,"""Twilight"" by Stephenie Meyer","""Adore You"" by Harry Styles",Silver Linings Playbook (2012)
+23,Relatoinship issues,Limerance,,"""Thinking Out Loud"" by Ed Sheeran",
+24,Relatoinship issues,Love as an escape mechanism,"""The Time Traveler's Wife"" by Audrey Niffenegger","""Someone Like You"" by Adele",The Age of Adaline (2015)
+25,Relatoinship issues,Love as an escape mechanism,"""Gone with the Wind"" by Margaret Mitchell","""Breathe Again"" by Toni Braxton",Midnight in Paris (2011) -
+26,Relatoinship issues,Love as an escape mechanism,"""Pride and Prejudice"" by Jane Austen","""Jar of Hearts"" by Christina Perri",The Shape of Water (2017)
+27,Relatoinship issues,Love as an escape mechanism,"""The Great Gatsby"" by F. Scott Fitzgerald","""Don't Speak"" by No Doubt",In the Mood for Love (2000)
+28,Relatoinship issues,Love as an escape mechanism,"""Memoirs of a Geisha"" by Arthur Golden","""Breathless"" by The Corrs",La La Land (2016) -
+29,Relatoinship issues,Love as an escape mechanism,,"""Amnesia"" by 5 Seconds of Summer",
+30,Relatoinship issues,Love addiction/codependency,"""Codependent No More"" by Melody Beattie","""Addicted to Love"" by Robert Palmer",Chasing Amy (1997)
+31,Relatoinship issues,Love addiction/codependency,"""Women Who Love Too Much"" by Robin Norwood","""Jar of Hearts"" by Christina Perri",Like Crazy (2011)
+32,Relatoinship issues,Love addiction/codependency,"""The Language of Letting Go"" by Melody Beattie","""Every Breath You Take"" by The Police",The Postman Always Rings Twice
+33,Relatoinship issues,Love addiction/codependency,"""The Human Magnet Syndrome: Why We Love People Who Hurt Us"" by Ross Rosenberg","""Stay"" by Rihanna ft. Mikky Ekko",Fatal Attraction (1987)
+34,Relatoinship issues,Love addiction/codependency,"""Facing Love Addiction: Giving Yourself the Power to Change the Way You Love"" by Pia Mellody","""Love Is a Losing Game"" by Amy Winehouse",
+35,Relatoinship issues,Comparison betweeen partner/power struggle,"""Gone Girl"" by Gillian Flynn","""Love Yourself"" by Justin Bieber",The War of the Roses (1989)
+36,Relatoinship issues,Comparison betweeen partner/power struggle,"""Big Little Lies"" by Liane Moriarty","""So What"" by P!nk",Unfaithful (2002)
+37,Relatoinship issues,Comparison betweeen partner/power struggle,"""The Silent Patient"" by Alex Michaelides","""Irreplaceable"" by Beyoncé",Notes on a Scandal (2006)
+38,Relatoinship issues,Comparison betweeen partner/power struggle,"""Sharp Objects"" by Gillian Flynn","""You're So Vain"" by Carly Simon",The Last Seduction (1994)
+39,Relatoinship issues,Comparison betweeen partner/power struggle,"""The Woman in the Window"" by A.J. Finn","""The Winner Takes It All"" by ABBA",Basic Instinct (1992)
+40,Relatoinship issues,Comparison betweeen partner/power struggle,"""The Glass Castle"" by Jeannette Walls","""Fighter"" by Christina Aguilera",
+41,Relatoinship issues,Friends with benefits,"""Fifty Shades of Grey"" by E.L. James","""Hotline Bling"" by Drake",Friends with Benefits (2011)
+42,Relatoinship issues,Friends with benefits,"""Tangled"" by Emma Chase","""Side to Side"" by Ariana Grande ft. Nicki Minaj",No Strings Attached (2011)
+43,Relatoinship issues,Friends with benefits,"""Ugly Love"" by Colleen Hoover","""Talking to the Moon"" by Bruno Mars",Love & Other Drugs (2010)
+44,Relatoinship issues,Friends with benefits,"""Losing It"" by Cora Carmack","""Body Say"" by Demi Lovato",Something's Gotta Give (2003) -
+45,Relatoinship issues,Friends with benefits,"""Bared to You"" by Sylvia Day","""Sugar"" by Maroon 5","Six Days, Seven Nights (1998) -"
+46,Relatoinship issues,Friends with benefits,"""Crossfire"" series by Sylvia Day","""S&M"" by Rihanna",
+47,Relatoinship issues,Situationships,"""Situationships"" by Fabolous ft. Mack Wilds","""Conversations with Friends"" by Sally Rooney","Definitely, Maybe (2008"
+48,Relatoinship issues,Situationships,"""Hotline Bling"" by Drake","""The Love Affairs of Nathaniel P."" by Adelle Waldman",Two Night Stand (2014)
+49,Relatoinship issues,Situationships,"""Truth Hurts"" by Lizzo","""Modern Lovers"" by Emma Straub",Forgetting Sarah Marshall (2008) -
+50,Relatoinship issues,Situationships,"""Complicated"" by Avril Lavigne","""The Interestings"" by Meg Wolitzer","The F Word (also known as ""What If"" in some regions) (2013"
+51,Relatoinship issues,Situationships,"""Ex-Factor"" by Lauryn Hill","""It's Not You, It's Him"" by Sophie Ranald",The Lobster (2015)
+52,Relatoinship issues,Situationships,"""Don't"" by Ed Sheeran","""This Is How You Lose Her"" by Junot Díaz",
+53,Relatoinship issues,Rebound,"""The Rosie Project"" by Graeme Simsion","""Since U Been Gone"" by Kelly Clarkson",Someone Like You (2001)
+54,Relatoinship issues,Rebound,"""Bridget Jones's Diary"" by Helen Fielding","""We Are Never Ever Getting Back Together"" by Taylor Swift",Bridget Jones's Diary (2001)
+55,Relatoinship issues,Rebound,"""Eat, Pray, Love"" by Elizabeth Gilbert","""Someone Like You"" by Adele",Forgetting Sarah Marshall (2008)
+56,Relatoinship issues,Rebound,"""Love the One You're With"" by Emily Giffin","""Irreplaceable"" by Beyoncé",High Fidelity (2000)
+57,Relatoinship issues,Rebound,"""The Breakup Bible"" by Melissa Kantor","""Before He Cheats"" by Carrie Underwood",He's Just Not That Into You (2009)
+58,Relatoinship issues,Rebound,"""The Summer Before the War"" by Helen Simonson","""Tainted Love"" by Soft Cell",
+59,Relatoinship issues,Hookup,"""The Sexual Life of Catherine M."" by Catherine Millet","""Blurred Lines"" by Robin Thicke ft. T.I., Pharrell Williams",The Overnight (2015)
+60,Relatoinship issues,Hookup,"""Easy"" by Tammara Webber","""Talk Dirty"" by Jason Derulo ft. 2 Chainz",Sleeping with Other People (2015)
+61,Relatoinship issues,Hookup,"""Beautiful Bastard"" by Christina Lauren","""Wicked Game"" by Chris Isaak",Spread (2009)
+62,Relatoinship issues,Hookup,"""Good for You"" by Tammara Webber","""Animals"" by Martin Garrix",Boogie Nights (1997)
+63,Relatoinship issues,Hookup,"""Unteachable"" by Leah Raeder","""Promiscuous"" by Nelly Furtado ft. Timbaland",Don Jon (2013)
+64,Relatoinship issues,Family planning,"""Expecting Better: Why the Conventional Pregnancy Wisdom Is Wrong—and What You Really Need to Know"" by Emily Oster","""Forever Young"" by Rod Stewart",Away We Go (2009)
+65,Relatoinship issues,Family planning,"""The Birth Partner: A Complete Guide to Childbirth for Dads, Partners, Doulas, and All Other Labor Companions"" by Penny Simkin","""Count On Me"" by Bruno Mars",Knocked Up (2007)
+66,Relatoinship issues,Family planning,"""Taking Charge of Your Fertility: The Definitive Guide to Natural Birth Control, Pregnancy Achievement, and Reproductive Health"" by Toni Weschler","""Daughters"" by John Mayer",Pieces of a Woman (2020)
+67,Relatoinship issues,Family planning,"""Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting"" by Pamela Druckerman","""In My Life"" by The Beatles",The Kids Are All Right (2010)
+68,Relatoinship issues,Family planning,"""The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"" by Harvey Karp","""When You Need Me"" by Bruce Springsteen",Waitress (2007) -
+69,Relatoinship issues,Family planning,,"""You Are My Sunshine"" by Johnny Cash",
+70,Relatoinship issues,unrequited love,"""The Remains of the Day"" by Kazuo Ishiguro","""I Will Always Love You"" by Whitney Houston",500 Days of Summer (2009)
+71,Relatoinship issues,unrequited love,"""Pride and Prejudice"" by Jane Austen","""Back to Black"" by Amy Winehouse",The Great Gatsby
+72,Relatoinship issues,unrequited love,"""Cyrano de Bergerac"" by Edmond Rostand","""The One That Got Away"" by Katy Perry",Carol (2015)
+73,Relatoinship issues,unrequited love,"""One-sided Love: Unreciprocated Feelings and Romantic Frustrations"" by Virgil L. Sheets","""Bleeding Love"" by Leona Lewis",The Age of Innocence (1993)
+74,Relatoinship issues,unrequited love,"""Love in the Time of Cholera"" by Gabriel García Márquez","""Total Eclipse of the Heart"" by Bonnie Tyler",
+75,Relatoinship issues,Conflict management,"""Nonviolent Communication: A Language of Life"" by Marshall B. Rosenberg","""Say Something"" by A Great Big World & Christina Aguilera",12 Angry Men (1957)
+76,Relatoinship issues,Conflict management,"""Never Split the Difference: Negotiating As If Your Life Depended On It"" by Chris Voss","""I Want to Hold Your Hand"" by The Beatles",A Few Good Men (1992)
+77,Relatoinship issues,Conflict management,"""Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior"" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler","""Sorry"" by Justin Bieber",Frost/Nixon (2008) -
+78,Relatoinship issues,Conflict management,"""Emotional Intelligence: Why It Can Matter More Than IQ"" by Daniel Goleman","""No More Drama"" by Mary J. Blige",Manchester by the Sea (2016)
+79,Relatoinship issues,Conflict management,"""The Anatomy of Peace: Resolving the Heart of Conflict"" by The Arbinger Institute","""Fighter"" by Christina Aguilera",The Intern (2015)
+80,Relatoinship issues,Conflict management,"""Conflict Management for Managers: Resolving Workplace, Client, and Policy Disputes"" by Susan S. Raines","""Don't Speak"" by No Doubt",
+81,Relatoinship issues,Difficulty moving on,"""The Catcher in the Rye"" by J.D. Salinger","""Someone Like You"" by Adele",An Education (2009)
+82,Relatoinship issues,Difficulty moving on,"""One Hundred Years of Solitude"" by Gabriel García Márquez","""Stay"" by Rihanna ft. Mikky Ekko",Good Will Hunting (1997)
+83,Relatoinship issues,Difficulty moving on,"""The Bell Jar"" by Sylvia Plath","""Back to Black"" by Amy Winehouse",Begin Again (2013)
+84,Relatoinship issues,Difficulty moving on,"""Norwegian Wood"" by Haruki Murakami","""Fix You"" by Coldplay",
+85,Relatoinship issues,Difficulty moving on,"""The Goldfinch"" by Donna Tartt","""Bleeding Love"" by Leona Lewis",
+86,Relatoinship issues,Difficulty moving on,"""The Shadow of the Wind"" by Carlos Ruiz Zafón","""I'm Not In Love"" by 10cc",
+87,Relatoinship issues,Communication issues,"""The Rosie Project"" by Graeme Simsion","""Misunderstood"" by Bon Jovi",Lost in Translation (2003)
+88,Relatoinship issues,Communication issues,"""Eleanor Oliphant Is Completely Fine"" by Gail Honeyman","""Ironic"" by Alanis Morissette",The Dilemma (2011)
+89,Relatoinship issues,Communication issues,"""Normal People"" by Sally Rooney","""Say Something"" by Justin Timberlake ft. Chris Stapleton",Liar Liar (1997)
+90,Relatoinship issues,Communication issues,"""The Catcher in the Rye"" by J.D. Salinger","""Don't Speak"" by No Doubt",Knocked Up (2007)
+91,Relatoinship issues,Communication issues,"""The Glass Castle"" by Jeannette Walls","""Hello"" by Adele",The Story of Us (1999)
+92,Relatoinship issues,Communication issues,"""The Curious Incident of the Dog in the Night-Time"" by Mark Haddon","""Communication Breakdown"" by Led Zeppelin",
+93,Relatoinship issues,Cheating ,"""The Girl on the Train"" by Paula Hawkins","""Jolene"" by Dolly Parton",Eyes Wide Shut (1999)
+94,Relatoinship issues,Cheating ,"""The Unbearable Lightness of Being"" by Milan Kundera","""Before He Cheats"" by Carrie Underwood",The Bridges of Madison County (1995)
+95,Relatoinship issues,Cheating ,"""The Affair"" by Colette Freedman","""I Will Always Love You"" by Whitney Houston",The Descendants (2011)
+96,Relatoinship issues,Cheating ,"""Choke"" by Chuck Palahniuk","""Lips of an Angel"" by Hinder",Match Point (2005)
+97,Relatoinship issues,Cheating ,"""The Silent Wife"" by A.S.A. Harrison","""You're Cheatin' Heart"" by Hank Williams",Chloe (2009)
+98,Relatoinship issues,Cheating ,"""Tess of the d'Urbervilles"" by Thomas Hardy","""Don't Speak"" by No Doubt",
+99,Relatoinship issues,Money issues,"""Rich Dad Poor Dad"" by Robert T. Kiyosaki","""Bills, Bills, Bills"" by Destiny's Child",Wall Street (1987)
+100,Relatoinship issues,Money issues,"""The Millionaire Next Door"" by Thomas J. Stanley and William D. Danko","""Money"" by Pink Floyd",The Pursuit of Happyness (2006)
+101,Relatoinship issues,Money issues,"""The Great Gatsby"" by F. Scott Fitzgerald","""Can't Buy Me Love"" by The Beatles",Parasite (2019)
+102,Relatoinship issues,Money issues,"""The Financial Diet: A Total Beginner's Guide to Getting Good with Money"" by Chelsea Fagan","""Gold Digger"" by Kanye West ft. Jamie Foxx",The Big Short (2015)
+103,Relatoinship issues,Money issues,"""Nudge: Improving Decisions About Health, Wealth, and Happiness"" by Richard H. Thaler and Cass R. Sunstein","""Take the Money and Run"" by Steve Miller Band",Slumdog Millionaire (2008)
+104,Relatoinship issues,Money issues,"""The Richest Man in Babylon"" by George S. Clason",,
+0,Geriatric issues,Medication management (financial issues),"""Crisis of Control: How Artificial SuperIntelligences May Destroy or Save the Human Race"" by Adam Kahane","""The Drugs Don't Work"" by The Verve","""Dallas Buyers Club"" (2013)"
+1,Geriatric issues,Oncology,"""The Emperor of All Maladies: A Biography of Cancer"" by Siddhartha Mukherjee","""Fix You"" by Coldplay","""The Fault in Our Stars"" (2014)"
+2,Geriatric issues,Oncology,"""When Breath Becomes Air"" by Paul Kalanithi","""Cancer"" by My Chemical Romance -","""My Life Without Me"" (2003)"
+3,Geriatric issues,Oncology,"""The Last Lecture"" by Randy Pausch","""Live Like You Were Dying"" by Tim McGraw","""50/50"" (2011)"
+4,Geriatric issues,Oncology,"""Everything Happens for a Reason: And Other Lies I've Loved"" by Kate Bowler",,
+5,Geriatric issues,Oncology,"""Cancer Ward"" by Aleksandr Solzhenitsyn",,
+6,Geriatric issues,survivorship guilt,"""The Road"" by Cormac McCarthy","""Survivor"" by Destiny's Child","""The Deer Hunter"" (1978)"
+7,Geriatric issues,survivorship guilt,"""A Little Life"" by Hanya Yanagihara","""The Night We Met"" by Lord Huron","""The Impossible"" (2012)"
+8,Geriatric issues,survivorship guilt,"""The Naked and the Dead"" by Norman Mailer","""I'm Still Standing"" by Elton John","""Rabbit Hole"" (2010)"
+9,Geriatric issues,survivorship guilt,"""The Things They Carried"" by Tim O'Brien","""One"" by U2","""The Grey"" (2011) -"
+10,Geriatric issues,survivorship guilt,"""Unbroken: A World War II Story of Survival, Resilience, and Redemption"" by Laura Hillenbrand","""Boulevard of Broken Dreams"" by Green Day","""Extremely Loud & Incredibly Close"" (2011)"
+11,Geriatric issues,"The onset of Alzheimer’s, dementia","""The Things We Keep"" by Sally Hepworth","""The Living Years"" by Mike + The Mechanics","""Still Alice"" (2014) -"
+12,Geriatric issues,"The onset of Alzheimer’s, dementia","""Elizabeth Is Missing"" by Emma Healey","""No One Is Alone"" from the musical ""Into the Woods""","""Away from Her"" (2006)"
+13,Geriatric issues,"The onset of Alzheimer’s, dementia","""We Are Not Ourselves"" by Matthew Thomas","""When I'm Sixty-Four"" by The Beatles","""The Notebook"" (2004)"
+14,Geriatric issues,"The onset of Alzheimer’s, dementia","""Remember Me?"" by Sophie Kinsella","""Stan"" by Eminem",
+15,Geriatric issues,"The onset of Alzheimer’s, dementia","""Turn of Mind"" by Alice LaPlante","""Hurt"" by Johnny Cash",
+16,Geriatric issues,"The onset of Alzheimer’s, dementia",,"""Welcome to the Black Parade"" by My Chemical Romance",
+17,Geriatric issues,PTSD/Trauma,"""The Things They Carried"" by Tim O'Brien","""Stan"" by Eminem","""American Sniper"" (2014)"
+18,Geriatric issues,PTSD/Trauma,"""The Yellow Birds"" by Kevin Powers","""Hurt"" by Johnny Cash","""The Deer Hunter"" (1978)"
+19,Geriatric issues,PTSD/Trauma,"""Speak"" by Laurie Halse Anderson -","""Welcome to the Black Parade"" by My Chemical Romance","""Saving Private Ryan"" (1998)"
+20,Geriatric issues,PTSD/Trauma,"""Regeneration"" by Pat Barker",,
+21,Geriatric issues,PTSD/Trauma,"""Flashback"" by Shannon Messenger",,
+22,Geriatric issues,"Quality of life/ assistance with ADL/ assistive tech/devices- (acceptances, legal attributes, support systems)","""Unseen: Unpublished Black History from the New York Times Photo Archives"" by Darcy Eveleigh, Dana Canedy, Damien Cave, and Rachel L. Swarns","""I'm Still Standing"" by Elton John","""The Intouchables"" (2011) -"
+23,Geriatric issues,"Quality of life/ assistance with ADL/ assistive tech/devices- (acceptances, legal attributes, support systems)","""Left Neglected"" by Lisa Genova","""Try"" by Pink","""The Fundamentals of Caring"" (2016)"
+24,Geriatric issues,"Quality of life/ assistance with ADL/ assistive tech/devices- (acceptances, legal attributes, support systems)","""Born on a Blue Day: Inside the Extraordinary Mind of an Autistic Savant"" by Daniel Tammet","""Lean On Me"" by Bill Withers","""Me Before You"" (2016)"
+25,Geriatric issues,"Quality of life/ assistance with ADL/ assistive tech/devices- (acceptances, legal attributes, support systems)","""The Diving Bell and the Butterfly"" by Jean-Dominique Bauby","""Fix You"" by Coldplay -","""Marathon"" (2005)"
+26,Geriatric issues,"Quality of life/ assistance with ADL/ assistive tech/devices- (acceptances, legal attributes, support systems)","""A Leg to Stand On"" by Oliver Sacks",,"""The Diving Bell and the Butterfly"" (2007)"
+27,Geriatric issues,Fear of death,"""The Death of Ivan Ilyich"" by Leo Tolstoy","""Knocking on Heaven's Door"" by Bob Dylan","""The Sixth Sense"" (1999)"
+28,Geriatric issues,Fear of death,"""Tuesdays with Morrie"" by Mitch Albom","""Live Like You Were Dying"" by Tim McGraw -","""The Bucket List"" (2007) -"
+29,Geriatric issues,Fear of death,"""The Book Thief"" by Markus Zusak","""Hurt"" by Nine Inch Nails (covered by Johnny Cash)","""The Death and Life of John F. Donovan"" (2018)"
+30,Geriatric issues,"Discomfort with the Aging process (beauty, stamina, etc)","""The Summer Before the War"" by Helen Simonson","""Vienna"" by Billy Joel -","""The Age of Adaline"" (2015)"
+31,Geriatric issues,"Discomfort with the Aging process (beauty, stamina, etc)","""A Man Called Ove"" by Fredrik Backman -","""Changes"" by David Bowie","""Clouds of Sils Maria"" (2014) -"
+32,Geriatric issues,"Discomfort with the Aging process (beauty, stamina, etc)","""Fear of Dying"" by Erica Jong -","""When I'm Sixty-Four"" by The Beatles","""Something's Gotta Give"" (2003) -"
+33,Geriatric issues,"Discomfort with the Aging process (beauty, stamina, etc)","""The Unlikely Pilgrimage of Harold Fry"" by Rachel Joyce","""Time"" by Pink Floyd","""The Best Exotic Marigold Hotel"" (2011) -"
+34,Geriatric issues,"Discomfort with the Aging process (beauty, stamina, etc)","""The Secret Diary of Hendrik Groen, 83 ¼ Years Old"" by Hendrik Groen -","""Wake Me Up When September Ends"" by Green Day","""Youth"" (2015)"
+35,Geriatric issues,Not having enough time,"""The Time Traveler's Wife"" by Audrey Niffenegger","""Time"" by Pink Floyd","""In Time"" (2011)"
+36,Geriatric issues,Not having enough time,"""Before I Fall"" by Lauren Oliver","""Time After Time"" by Cyndi Lauper","""Click"" (2006)"
+37,Geriatric issues,Not having enough time,"""The Thief of Time: Philosophical Essays on Procrastination"" edited by Chrisoula Andreou and Mark D. White","""100 Years"" by Five for Fighting","""About Time"" (2013)"
+38,Geriatric issues,Regret and guilt for life decisions,"""The Picture of Dorian Gray"" by Oscar Wilde","""The Night We Met"" by Lord Huron -","""Eternal Sunshine of the Spotless Mind"" (2004)"
+39,Geriatric issues,Regret and guilt for life decisions,"""A Little Life"" by Hanya Yanagihara","""Yesterday"" by The Beatles","""Requiem for a Dream"" (2000)"
+40,Geriatric issues,Regret and guilt for life decisions,"""The Kite Runner"" by Khaled Hosseini",,"""Atonement"" (2007) -"
+41,Geriatric issues,Loneliness,"""The Catcher in the Rye"" by J.D. Salinger","""Eleanor Rigby"" by The Beatles","""Into the Wild"" (2007)"
+42,Geriatric issues,Loneliness,"""One Hundred Years of Solitude"" by Gabriel García Márquez","""Lonely"" by Akon","""Lost in Translation"" (2003)"
+43,Geriatric issues,Loneliness,"""The Stranger"" by Albert Camus","""All by Myself"" by Eric Carmen -",
+44,Geriatric issues,Chronic pain management,"""Sick: A Memoir"" by Porochista Khakpour","""Stronger"" by Kanye West","""Cake"" (2014)"
+45,Geriatric issues,Chronic pain management,"""The Body in Pain: The Making and Unmaking of the World"" by Elaine Scarry",,"""The Machinist"" (2004)"
+46,Geriatric issues,Depression,"""The Bell Jar"" by Sylvia Plath","""Boulevard of Broken Dreams"" by Green Day","""Eternal Sunshine of the Spotless Mind"" (2004)"
+47,Geriatric issues,Depression,"""The Perks of Being a Wallflower"" by Stephen Chbosky","""Mad World"" by Tears for Fears","""Silver Linings Playbook"" (2012)"
+48,Geriatric issues,Depression,"""Reasons to Stay Alive"" by Matt Haig",,"""Prozac Nation"" (2001)"
+49,Geriatric issues,Insomnia,"""Insomnia"" by Stephen King","""Counting Stars"" by OneRepublic","""Insomnia"" (2002)"
+50,Geriatric issues,Insomnia,"""The Metamorphosis"" by Franz Kafka -","""Can't Sleep Love"" by Pentatonix","""Fight Club"" (1999)"
+51,Geriatric issues,Insomnia,"""The Big Sleep"" by Raymond Chandler","""No Sleep"" by Wiz Khalifa -","""One Hour Photo"" (2002)"
+0,Social issues,Religion,Mere Christianity by C.S. Lewis,Imagine by John Lennon,The Passion of the Christ (2004)
+1,Social issues,Religion,The Quran,Hallelujah by Leonard Cohen,The Ten Commandments (1956)
+2,Social issues,Religion,The Torah,Spirit in the Sky by Norman Greenbaum,Noah (2014)
+3,Social issues,Religion,The Dhammapada,I Still Haven't Found What I'm Looking For by U2,The Shack (2017)
+4,Social issues,Religion,Bhagavad Gita,Like a Prayer by Madonna,Prince of Egypt (1998)
+5,Social issues,Religion,Tao Te Ching by Lao Tzu -,,
+6,Social issues,Status,"""Pride and Prejudice"" by Jane Austen",Material Girl by Madonna,The Great Gatsby (2013)
+7,Social issues,Status,"""The Great Gatsby"" by F. Scott Fitzgerald",Royals by Lorde,Crazy Rich Asians (2018)
+8,Social issues,Status,"""Beloved"" by Toni Morrison -",Money by Pink Floyd,Parasite (2019)
+9,Social issues,Status,"""Oliver Twist"" by Charles Dickens -",Billionaire by Travie McCoy ft. Bruno Mars -,The Social Network (2010)
+10,Social issues,Status,"""The Kite Runner"" by Khaled Hosseini -",Common People by Pulp,Slumdog Millionaire (2008)
+11,Social issues,Money,"""The Great Gatsby"" by F. Scott Fitzgerald ",Money by Pink Floyd,Wall Street (1987) -
+12,Social issues,Money,"""The Millionaire Next Door: The Surprising Secrets of America's Wealthy"" by Thomas J. Stanley and William D. Danko",Gold Digger by Kanye West ft. Jamie Foxx,The Wolf of Wall Street (2013)
+13,Social issues,Money,"""Money: A Suicide Note"" by Martin Amis",Can't Buy Me Love by The Beatles -,Boiler Room (2000) -
+14,Social issues,Money,"""Rich Dad Poor Dad"" by Robert T. Kiyosaki",Mo Money Mo Problems by The Notorious B.I.G. ft. Puff Daddy & Mase,Jerry Maguire (1996)
+15,Social issues,Money,"""Capital in the Twenty-First Century"" by Thomas Piketty","If I Were a Rich Man from ""Fiddler on the Roof""",The Big Short (2015)
+16,Social issues,Achievement,"""Grit: The Power of Passion and Perseverance"" by Angela Duckworth","""Eye of the Tiger"" by Survivor","""The Pursuit of Happyness"" (2006)"
+17,Social issues,Achievement,"""Outliers: The Story of Success"" by Malcolm Gladwell","""Stronger"" by Kanye West","""Rocky"" (1976)"
+18,Social issues,Achievement,"Peak: Secrets from the New Science of Expertise"" by Anders Ericsson and Robert Pool -","""Unstoppable"" by Sia","""Rudy"" (1993)"
+19,Social issues,Achievement,"""Smarter Faster Better: The Secrets of Being Productive in Life and Business"" by Charles Duhigg","""Roar"" by Katy Perry -","""The Imitation Game"" (2014)"
+20,Social issues,Achievement,"""Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!"" by Tony Robbins","""Gonna Fly Now"" by Bill Conti","""The Theory of Everything"" (2014)"
+21,Social issues,Linguistic ability,"""The Language Instinct: How the Mind Creates Language"" by Steven Pinker","""Words"" by Bee Gees","""The Miracle Worker"" (1962) -"
+22,Social issues,Linguistic ability,"""The Mother Tongue: English and How It Got That Way"" by Bill Bryson","""Talk"" by Coldplay","""Arrival"" (2016) -"
+23,Social issues,Linguistic ability,"""Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation"" by Lynne Truss -","""Read My Mind"" by The Killers","""The Linguists"" (2008)"
+24,Social issues,Linguistic ability,"""The Wordy Shipmates"" by Sarah Vowell","""Message in a Bottle"" by The Police","""Babel"" (2006)"
+25,Social issues,Linguistic ability,"""The Professor and the Madman: A Tale of Murder, Insanity, and the Making of the Oxford English Dictionary"" by Simon Winchester","""Talk to Me"" by Stevie Nicks","""Taare Zameen Par"" (2007)"
+26,Social issues,Queer,"""Giovanni's Room"" by James Baldwin","""Born This Way"" by Lady Gaga","""Brokeback Mountain"" (2005)"
+27,Social issues,Queer,"""The Picture of Dorian Gray"" by Oscar Wilde","""I Want to Break Free"" by Queen","""Moonlight"" (2016)"
+28,Social issues,Queer,"""Fun Home: A Family Tragicomic"" by Alison Bechdel","""Same Love"" by Macklemore & Ryan Lewis ft. Mary Lambert","""Carol"" (2015)"
+29,Social issues,Queer,"""Less"" by Andrew Sean Greer","""Take Me to Church"" by Hozier","""Love, Simon"" (2018)"
+30,Social issues,Queer,"""Red, White & Royal Blue"" by Casey McQuiston","""True Colors"" by Cyndi Lauper","""Pride"" (2014)"
+31,Social issues,Ableism,"""Wonder"" by R.J. Palacio","""Let It Go"" by Tenth Avenue North","""The Miracle Worker"" (1962)"
+32,Social issues,Ableism,"""My Name is Not Easy"" by Debby Dahl Edwardson","""Just Stand Up!"" by Various Artists","""My Left Foot"" (1989)"
+33,Social issues,Ableism,"""Blindness"" by José Saramago","""Keep Ya Head Up"" by Tupac","""The Theory of Everything"" (2014)"
+34,Social issues,Ableism,"""The Boy in the Moon: A Father's Search for His Disabled Son"" by Ian Brown","""Scars to Your Beautiful"" by Alessia Cara","""A Beautiful Mind"" (2001)"
+35,Social issues,Ableism,"""Disability Visibility: First-Person Stories from the Twenty-First Century"" edited by Alice Wong","""Not Afraid"" by Eminem","""Wonder"" (2017)"
+36,Social issues,racism,"""The Color Purple"" by Alice Walker","""This Land"" by Gary Clark Jr.","""To Kill a Mockingbird"" (1962)"
+37,Social issues,racism,"""Between the World and Me"" by Ta-Nehisi Coates","""Formation"" by Beyoncé","""12 Years a Slave"" (2013)"
+38,Social issues,racism,"""The Hate U Give"" by Angie Thomas","""Where Is the Love?"" by The Black Eyed Peas","""12 Years a Slave"" (2013)"
+39,Social issues,racism,"""Go Tell It on the Mountain"" by James Baldwin","""Black Man in a White World"" by Michael Kiwanuka","""American History X"" (1998)"
+40,Social issues,racism,"""The New Jim Crow: Mass Incarceration in the Age of Colorblindness"" by Michelle Alexander","""Strange Fruit"" by Billie Holiday","""The Hate U Give"" (2018)"
+41,Social issues,Caste,"""Joothan: An Untouchable's Life"" by Omprakash Valmiki","""Bappa"" by Anand Shinde","""Article 15"" (2019)"
+42,Social issues,Caste,"""Annihilation of Caste"" by B.R. Ambedkar","""Aila Re"" by Shankar Mahadevan",SAIRAT 2016
+43,Social issues,Caste,"""Ants Among Elephants: An Untouchable Family and the Making of Modern India"" by Sujatha Gidla","""Dalitancha Raja"" by Kunal Ganjawala","""Fandry"" (2013)"
+44,Social issues,Caste,"""The God of Small Things"" by Arundhati Roy","""Caste"" by Prem Joshua","""Aarakshan"" (2011)"
+45,Social issues,Caste,"""Castes of Mind: Colonialism and the Making of Modern India"" by Nicholas B. Dirks","""Patakha Guddi"" by A.R. Rahman -","""Nagraj Manjule"" (2016)"
+46,Social issues,personal space,"""Boundaries: When to Say Yes, How to Say No to Take Control of Your Life"" by Dr. Henry Cloud and Dr. John Townsend","""Leave Me Alone"" by Michael Jackson -","""Four Rooms"" (1995)"
+47,Social issues,personal space,"""My Year of Rest and Relaxation"" by Ottessa Moshfegh","""In the Closet"" by Michael Jackson","""Step Brothers"" (2008)"
+48,Social issues,personal space,,"""My Humps"" by The Black Eyed Peas -",
+49,Social issues,personal space,,"""Don't Stand So Close to Me"" by The Police -",
+50,Social issues,social anxiety,"""Fangirl"" by Rainbow Rowell","""Breathe (2 AM)"" by Anna Nalick","""Anxietyville"" (2018) -"
+51,Social issues,social anxiety,,"""Breathe Me"" by Sia","""Welcome to the Dollhouse"" (1995) -"
+52,Social issues,social anxiety,,"""Shy"" by Jai Waetford","""Perks of Being a Wallflower"" (2012)"
+53,Social issues,social anxiety,,"""People Help the People"" by Birdy","""Mary and Max"" (2009)"
+54,Social issues,avoidant behavior,"""The Stranger"" by Albert Camus -","""Boulevard of Broken Dreams"" by Green Day","""Lost in Translation"" (2003"
+55,Social issues,avoidant behavior,"""One Flew Over the Cuckoo's Nest"" by Ken Kesey","""Chasing Cars"" by Snow Patrol -",
+56,Social issues,avoidant behavior,"""The Catcher in the Rye"" by J.D. Salinger -",,
+57,Social issues,noise/being loud,"""White Noise"" by Don DeLillo","""Loud Places"" by Jamie xx ft. Romy","""Whiplash"" (2014)"
+58,Social issues,noise/being loud,"""Sound: A Memoir of Hearing Lost and Found"" by Bella Bathurst","""Don't Stop Believin'"" by Journey","""A Quiet Place"" (2018)"
+59,Social issues,noise/being loud,"""The Noise of Time"" by Julian Barnes",,
+60,Social issues,personal boundaries,"""Boundaries: When to Say Yes, How to Say No to Take Control of Your Life"" by Dr. Henry Cloud and Dr. John Townsend","""No"" by Meghan Trainor","""Fatal Attraction"" (1987) -"
+61,Social issues,personal boundaries,"""The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are"" by Brené Brown","""Boundaries"" by Leela James","""The Pursuit of Happyness"" (2006) -"
+62,Social issues,personal boundaries,"""The Glass Castle"" by Jeannette Walls",,
+63,Social issues,personal boundaries,"""Where the Crawdads Sing"" by Delia Owens",,
+64,Social issues, stealing,"""Oliver Twist"" by Charles Dickens","""Lola"" by The Kinks",Inside Man (2006)
+65,Social issues, stealing,"""The Book Thief"" by Markus Zusak","""Material Girl"" by Madonna",Now You See Me (2013)
+66,Social issues, stealing,,"""Thieves"" by Ministry",Heat (1995)
+67,Social issues, stealing,,"""Folsom Prison Blues"" by Johnny Cash -",The Italian Job (2003)
+68,Social issues, stealing,,,Ocean's Eleven (2001)
+69,Social issues,resources,"""The Lorax"" by Dr. Seuss","""Big Yellow Taxi"" by Joni Mitchell -",
+70,Social issues,resources,"""The Water Knife"" by Paolo Bacigalupi","""Diamonds"" by Rihanna -",
+71,Social issues,resources,"""The Silent Spring"" by Rachel Carson","""Rich Girl"" by Hall & Oates",
+72,Social issues,resources,"""The Lorax"" by Dr. Seuss",,
+73,Social issues, issues with guests,"""The Nest"" by Cynthia D'Aprix Sweeney -",,
+74,Social issues, issues with guests,"""The Perfect Guest"" by Emma Rous",,
+75,Social issues, issues with guests,"""The Uninvited Guests"" by Sadie Jones",,
+76,Social issues,  LGBTQIA+,"""Giovanni's Room"" by James Baldwin","""Born This Way"" by Lady Gaga","Brokeback Mountain"" (2005) -"
+77,Social issues,  LGBTQIA+,"""Orlando"" by Virginia Woolf","""Same Love"" by Macklemore & Ryan Lewis ft. Mary Lambert","""Moonlight"" (2016)"
+78,Social issues,  LGBTQIA+,,"""Girls Like Girls"" by Hayley Kiyoko","""Love, Simon"" (2018)"
+79,Social issues,  LGBTQIA+,,"""She"" by Dodie -","""Pride"" (2014)"
+80,Social issues,cleanliness,"""The Life-Changing Magic of Tidying Up"" by Marie Kondo","""Clean"" by Taylor Swift",
+81,Social issues,cleanliness,"""The Big Book of Clean"" by Lisa Campbell Ernst","""Cleanin' Out My Closet"" by Eminem",
+82,Social issues,cleanliness,"""Dirt Is Good: The Advantage of Germs for Your Child's Developing Immune System"" by Jack Gilbert and Rob Knight","""Just Like Heaven"" by The Watson Twins",
+83,Social issues,cleanliness,,"""My Clean"" by C. Young",
+84,Social issues,feeling grief on roommate leaving,"""The Interestings"" by Meg Wolitzer","""Someone Like You"" by Adele","""Frances Ha"" (2012)"
+85,Social issues,feeling grief on roommate leaving,"""Roomies"" by Sara Zarr and Tara Altebrando","I Will Always Love You"" by Whitney Houston (originally by Dolly Parton) -","""Single White Female"" (1992)"
+86,Social issues,feeling grief on roommate leaving,,"""Nothing Compares 2 U"" by Sinéad O'Connor",
+0,Parenting Issues,Empty Nest Syndrome,"""The Empty Nest: 31 Parents Tell the Truth About Relationships, Love, and Freedom After the Kids Fly the Coop"" by Karen Stabiner","""The Living Years"" by Mike + The Mechanics","""Terms of Endearment"" (1983)"
+1,Parenting Issues,Empty Nest Syndrome,"""Blue Nights"" by Joan Didion","""Never Grow Up"" by Taylor Swift","""Postcards from the Edge"" (1990)"
+2,Parenting Issues,Empty Nest Syndrome,"""And Now You Can Go"" by Vendela Vida","""You're Gonna Miss This"" by Trace Adkins","""The Kids Are All Right"" (2010)"
+3,Parenting Issues,Newborn Concerns,"""What to Expect When You're Expecting"" by Heidi Murkoff","""Isn't She Lovely"" by Stevie Wonder","""Three Men and a Baby"" (1987"
+4,Parenting Issues,Newborn Concerns,"""The Happiest Baby on the Block"" by Harvey Karp","""Lullabye (Goodnight, My Angel)"" by Billy Joel","""Baby Boom"" (1987) -"
+5,Parenting Issues,Newborn Concerns,"""Go the Fk to Sleep"" by Adam Mansbach**","""Forever Young"" by Rod Stewart",
+6,Parenting Issues,Newborn Concerns,"""Operating Instructions: A Journal of My Son's First Year"" by Anne Lamott",,
+7,Parenting Issues,Need for Child's support,"""The Glass Castle"" by Jeannette Walls","""Wind Beneath My Wings"" by Bette Midler","""I Am Sam"" (2001) -"
+8,Parenting Issues,Need for Child's support,"""A Child Called 'It'"" by Dave Pelzer","""Lean On Me"" by Bill Withers -","""Lorenzo's Oil"" (1992)"
+9,Parenting Issues,Need for Child's support,"""The Memory Keeper's Daughter"" by Kim Edwards","""You Raise Me Up"" by Josh Groban","""My Sister's Keeper"" (2009)"
+10,Parenting Issues,Need for Child's support,"""Tuesdays with Morrie"" by Mitch Albom",,
+11,Parenting Issues,Upbringing of the child,"""To Kill a Mockingbird"" by Harper Lee","""Cat's in the Cradle"" by Harry Chapin","""Parenthood"" (1989)"
+12,Parenting Issues,Upbringing of the child,"""Little Women"" by Louisa May Alcott -","""Forever Young"" by Rod Stewart","""Boyhood"" (2014)"
+13,Parenting Issues,Upbringing of the child,"""Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive"" by Daniel J. Siegel and Mary Hartzell -","""In My Daughter's Eyes"" by Martina McBride -","""The Pursuit of Happyness"" (2006)"
+14,Parenting Issues,Upbringing of the child,"""The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind"" by Daniel J. Siegel and Tina Payne Bryson",,
+15,Parenting Issues,Aggressive Child,"""The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated, Chronically Inflexible Children"" by Ross W. Greene","""Jeremy"" by Pearl Jam","""We Need to Talk About Kevin"" (2011)"
+16,Parenting Issues,Aggressive Child,"""Parenting the Strong-Willed Child: The Clinically Proven Five-Week Program for Parents of Two- to Six-Year-Olds"" by Rex Forehand and Nicholas Long","""Pumped Up Kicks"" by Foster the People","""A Child's Cry for Help"" (1994)"
+17,Parenting Issues,Aggressive Child,"""The Out-of-Sync Child: Recognizing and Coping with Sensory Processing Disorder"" by Carol Stock Kranowitz",,"""The Sixth Sense"" (1999)"
+18,Parenting Issues,Child and Relationships,"""To Kill a Mockingbird"" by Harper Lee","""Teach Your Children"" by Crosby, Stills, Nash & Young","""The Pursuit of Happyness"" (2006)"
+19,Parenting Issues,Child and Relationships,"""Bridge to Terabithia"" by Katherine Paterson","""Isn't She Lovely"" by Stevie Wonder","""Kramer vs. Kramer"" (1979)"
+20,Parenting Issues,Child and Relationships,"The Secret Garden"" by Frances Hodgson Burnett","""Daughter"" by Pearl Jam","""Matilda"" (1996"
+21,Parenting Issues,Child and Relationships,"""Wonder"" by R.J. Palacio",,
+22,Parenting Issues,Child and Career,"""Out of My Mind"" by Sharon M. Draper","""True Colors"" by Cyndi Lauper","""Mask"" (1985) -"
+23,Parenting Issues,Child and Career,"""Fish in a Tree"" by Lynda Mullaly Hunt","""Beautiful"" by Christina Aguilera -","""Radio"" (2003)"
+24,Parenting Issues,Child and Career,"""Mockingbird"" by Kathryn Erskine",,
+25,Parenting Issues,Distance from the Child,"""The Road"" by Cormac McCarthy","""Cat's in the Cradle"" by Harry Chapin -","""Lion"" (2016)"
+26,Parenting Issues,Distance from the Child,"""The Glass Castle"" by Jeannette Walls","""The Living Years"" by Mike + The Mechanics -","""Finding Nemo"" (2003)"
+27,Parenting Issues,Distance from the Child,"""The Great Gatsby"" by F. Scott Fitzgerald -",,"""Taken"" (2008)"
+28,Parenting Issues,Children and Puberty,,"""Like a Rolling Stone"" by Bob Dylan","""Stand by Me"" (1986)"
+29,Parenting Issues,Children and Puberty,,"""The Diary of a Young Girl"" by Anne Frank -","""Eighth Grade"" (2018)"
+30,Parenting Issues,Children and Puberty,,"""The Absolutely True Diary of a Part-Time Indian"" by Sherman Alexie -",
+31,Parenting Issues,Single Parent,"""Where the Wild Moms Are"" by Katie Blackburn","""Superwoman"" by Alicia Keys","""Mrs. Doubtfire"" (1993)"
+32,Parenting Issues,Single Parent,"""The Single Mother's Book: A Practical Guide to Managing Your Children, Career, Home, Finances, and Everything Else"" by Joan Anderson and Raeleen D'Agostino Mautner","""Fast Car"" by Tracy Chapman","""Juno"" (2007)"
+33,Parenting Issues,Single Parent,"""Operating Instructions: A Journal of My Son's First Year"" by Anne Lamott",,"""Erin Brockovich"" (2000)"
+34,Parenting Issues,Early Life Parenting,"""The Happiest Baby on the Block"" by Harvey Karp","""Isn't She Lovely"" by Stevie Wonder","""Three Men and a Baby"" (1987)"
+35,Parenting Issues,Early Life Parenting,"""The Wonder Weeks: How to Stimulate Your Baby's Mental Development and Help Him Turn His 10 Predictable, Great, Fussy Phases into Magical Leaps Forward"" by Hetty van de Rijt and Frans Plooij","""The Happiest Baby on the Block"" by Harvey Karp","""Baby Boom"" (1987)"
+36,Parenting Issues,Early Life Parenting,"""The Baby Book: Everything You Need to Know About Your Baby from Birth to Age Two"" by William Sears and Martha Sears",,"""Away We Go"" (2009)"
+37,Parenting Issues,Sleep Problems,"""Why We Sleep: Unlocking the Power of Sleep and Dreams"" by Matthew Walker",,"""Fight Club"" (1999)"
+38,Parenting Issues,Sleep Problems,"""The Sleep Revolution: Transforming Your Life, One Night at a Time"" by Arianna Huffington","""Enter Sandman"" by Metallica","""Insomnia"" (2002)"
+39,Parenting Issues,Sleep Problems,"""The No-Cry Sleep Solution: Gentle Ways to Help Your Baby Sleep Through the Night"" by Elizabeth Pantley","""Lullaby"" by Billy Joel","""Sleepless in Seattle"" (1993)"
+40,Parenting Issues,Adopting a child,"""The Language of Flowers"" by Vanessa Diffenbaugh","""Isn't She Lovely"" by Stevie Wonder","""Instant Family"" (2018)"
+41,Parenting Issues,Adopting a child,"""The Connected Child: Bring Hope and Healing to Your Adoptive Family"" by Karyn B. Purvis, David R. Cross, and Wendy Lyons Sunshine","""I Hope You Dance"" by Lee Ann Womack","""Lion"" (2016)"
+42,Parenting Issues,Adopting a child,"""Three Little Words: A Memoir"" by Ashley Rhodes-Courter",,"""Juno"" (2007)"
+43,Parenting Issues,Giving up a child for adoption,"""The Girls Who Went Away: The Hidden History of Women Who Surrendered Children for Adoption in the Decades Before Roe v. Wade"" by Ann Fessler","""Coat of Many Colors"" by Dolly Parton","""Juno"" (2007)"
+44,Parenting Issues,Giving up a child for adoption,"""The Waiting Child: How the Faith and Love of One Orphan Saved the Life of Another"" by Cindy Champnella -","""I Will Always Love You"" by Whitney Houston (originally written and performed by Dolly Parton)","""Philomena"" (2013) -"
+45,Parenting Issues,Giving up a child for adoption,"""The Language of Secrets"" by Dianne Dixon",,
+46,Parenting Issues,Post-partum and childcare,"""What No One Tells You: A Guide to Your Emotions from Pregnancy to Motherhood"" by Alexandra Sacks and Catherine Birndorf -",,
+47,Parenting Issues,Post-partum and childcare,"""Operating Instructions: A Journal of My Son's First Year"" by Anne Lamott","""The First Cut Is the Deepest"" by Cat Stevens (covered by various artists)","""Tully"" (2018)"
+48,Parenting Issues,Post-partum and childcare,"""The Fourth Trimester: A Postpartum Guide to Healing Your Body, Balancing Your Emotions, and Restoring Your Vitality"" by Kimberly Ann Johnson","""Lullaby"" by Dixie Chicks","""Motherhood"" (2009)"
+49,Parenting Issues,Step-child Parenting,"""The Smart Stepfamily: Seven Steps to a Healthy Family"" by Ron L. Deal","""Instant Family"" by Bebe Rexha and Florida Georgia Line","""The Parent Trap"" (1998)"
+50,Parenting Issues,Step-child Parenting,"""Stepmonster: A New Look at Why Real Stepmothers Think, Feel, and Act the Way We Do"" by Wednesday Martin","""Cinderella"" by Steven Curtis Chapman","""Stepmom"" (1998)"
+51,Parenting Issues,Step-child Parenting,"""No One's the Bitch: A Ten-Step Plan for the Mother and Stepmother Relationship"" by Jennifer Newcomb Marine and Carol Marine",,"""Daddy's Home"" (2015)"
+52,Parenting Issues,Child with Mental Health Disorder,"""It's Kind of a Funny Story"" by Ned Vizzini","""1-800-273-8255"" by Logic ft. Alessia Cara and Khalid","""A Beautiful Mind"" (2001)"
+53,Parenting Issues,Child with Mental Health Disorder,"""Turtles All the Way Down"" by John Green","""Fake Happy"" by Paramore","""The Perks of Being a Wallflower"" (2012)"
+54,Parenting Issues,Child with Mental Health Disorder,"""The Silver Linings Playbook"" by Matthew Quick",,"""Extremely Loud & Incredibly Close"" (2011)"
+55,Parenting Issues,Child with Chronic Illness,"""Wonder"" by R.J. Palacio","""Fix You"" by Coldplay","""My Girl"" (1991)"
+56,Parenting Issues,Child with Chronic Illness,"""Rules"" by Cynthia Lord","""Fight Song"" by Rachel Platten","""The Fault in Our Stars"" (2014)"
+57,Parenting Issues,Child with Chronic Illness,"""A Mango-Shaped Space"" by Wendy Mass",,"""Extraordinary Measures"" (2010)"
+58,Parenting Issues,Being a foster parent,"""Three Little Words: A Memoir"" by Ashley Rhodes-Courter","""The House That Built Me"" by Miranda Lambert",
+59,Parenting Issues,Being a foster parent,"""The Language of Flowers"" by Vanessa Diffenbaugh","""Somewhere Down the Road"" by Barry Manilow",
+60,Parenting Issues,Being a foster parent,"""Another Place at the Table"" by Kathy Harrison",,
+61,Parenting Issues,Abortion,"""The Cider House Rules"" by John Irving","""Brick"" by Ben Folds Five","""Vera Drake"" (2004)"
+62,Parenting Issues,Abortion,"""Unpregnant"" by Jenni Hendriks and Ted Caplan","""Fast Car"" by Tracy Chapman","""If These Walls Could Talk"" (1996)"
+63,Parenting Issues,Abortion,"""This Common Secret: My Journey as an Abortion Doctor"" by Susan Wicklund and Alan Kesselheim",,"""4 Months, 3 Weeks and 2 Days"" (2007) -"
+64,Parenting Issues,Death of mother during labor,"""When Breath Becomes Air"" by Paul Kalanithi","""He Didn't Have to Be"" by Brad Paisley","""Pieces of April"" (2003)"
+65,Parenting Issues,Death of mother during labor,"""Option B: Facing Adversity, Building Resilience, and Finding Joy"" by Sheryl Sandberg and Adam Grant -","""See You Again"" by Wiz Khalifa ft. Charlie Puth","""Return to Zero"" (2014)"
+66,Parenting Issues,IVF Parents,"""The Art of Waiting: On Fertility, Medicine, and Motherhood"" by Belle Boggs","""Miracle"" by Céline Dion","""Baby Mama"" (2008)"
+67,Parenting Issues,IVF Parents,"""It Starts with the Egg: How the Science of Egg Quality Can Help You Get Pregnant Naturally, Prevent Miscarriage, and Improve Your Odds in IVF"" by Rebecca Fett","""I Was Here"" by Beyoncé","""Private Life"" (2018)"
+68,Parenting Issues,IVF Parents,"""The Baby Wait: Lessons Learned While Trying to Become a Mom"" by Meaghan O'Connell",,
+69,Parenting Issues,Taking care of oneself while carrying a child,"""The Mindful Mom-to-Be: A Modern Doula's Guide to Building a Healthy Foundation from Pregnancy Through Birth"" by Lori Bregman","""Three Little Birds"" by Bob Marley","""Waitress"" (2007)"
+70,Parenting Issues,Taking care of oneself while carrying a child,"""Expecting Better: Why the Conventional Pregnancy Wisdom Is Wrong--and What You Really Need to Know"" by Emily Oster -","""Beautiful"" by Christina Aguilera",
+71,Parenting Issues,Taking care of oneself while carrying a child,"""The Pregnancy Countdown Book: Nine Months of Practical Tips, Useful Advice, and Uncensored Truths"" by Susan Magee and Kara Nakisbendi",,
+72,Parenting Issues,Child care during divorce,"""Mom's House, Dad's House: Making Two Homes for Your Child"" by Isolina Ricci ","""Forever and Ever, Amen"" by Randy Travis",
+73,Parenting Issues,Child care during divorce,"""The Divorce Talk: How to Tell the Kids - A Parent's Guide to Breaking the News Without Breaking Their Hearts"" by Christie Mellor","""Keep Holding On"" by Avril Lavigne",
+74,Parenting Issues,Child care during divorce,"""The Truth About Children and Divorce: Dealing with the Emotions So You and Your Children Can Thrive"" by Robert E. Emery",,
+75,Parenting Issues,Sex Education,"""The Talk: Conversations about Race, Love & Truth"" by Cheryl Willis Hudson and Wade Hudson","""I Want to Hold Your Hand"" by The Beatles",
+76,Parenting Issues,Sex Education,"""It's Perfectly Normal: Changing Bodies, Growing Up, Sex, and Sexual Health"" by Robie H. Harris","""Let's Talk About Sex"" by Salt-N-Pepa",
+77,Parenting Issues,Sex Education,"""Girls & Sex: Navigating the Complicated New Landscape"" by Peggy Orenstein",,
+78,Parenting Issues,LGBTQA Child,"""I Am Jazz"" by Jessica Herthel and Jazz Jennings","""True Colors"" by Cyndi Lauper",
+79,Parenting Issues,LGBTQA Child,"""George"" by Alex Gino","""Born This Way"" by Lady Gaga -",
+80,Parenting Issues,LGBTQA Child,"""And Tango Makes Three"" by Justin Richardson and Peter Parnell",,
+81,Parenting Issues,LGBTQA Child,"""Julián Is a Mermaid"" by Jessica Love",,
+82,Parenting Issues,Parental alienation,"""Divorce Poison: How to Protect Your Family from Bad-mouthing and Brainwashing"" by Dr. Richard A. Warshak","""Vincent"" by Don McLean",
+83,Parenting Issues,Parental alienation,"""Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind"" by Amy J.L. Baker -","""Cat's in the Cradle"" by Harry Chapin",
+84,Parenting Issues,Parental alienation,"""Welcome Back, Pluto: Understanding, Preventing, and Overcoming Parental Alienation"" by Hedi Argent",,
+85,Parenting Issues,Miscarriages,"""Empty Arms: Hope and Support for Those Who Have Suffered a Miscarriage, Stillbirth, or Tubal Pregnancy"" by Pam Vredevelt","""Heaven's Garden"" by Kellie Coffey",
+86,Parenting Issues,Miscarriages,"""Waiting for Daisy: A Tale of Two Continents, Three Religions, Five Infertility Doctors, an Oscar, an Atomic Bomb, a Romantic Night, and One Woman's Quest to Become a Mother"" by Peggy Orenstein","""Beam Me Up"" by P!nk",
+87,Parenting Issues,Postpartum depression,"""Down Came the Rain: My Journey Through Postpartum Depression"" by Brooke Shields -","""Good Woman"" by Cat Power",
+88,Parenting Issues,Postpartum depression,"""The Yellow Wallpaper"" by Charlotte Perkins Gilman","""Not Ready to Make Nice"" by Dixie Chicks",
+89,Parenting Issues,Fertility issues,"""Inconceivable: A Woman's Triumph over Despair and Statistics"" by Julia Indichova","""Heartbeats"" by José González",
+90,Parenting Issues,Fertility issues,"""Everything Conceivable: How Assisted Reproduction Is Changing Men, Women, and the World"" by Liza Mundy","""Superwoman"" by Alicia Keys",
+91,Parenting Issues,Parental guilt,"""A Little Life"" by Hanya Yanagihara","""Cat's in the Cradle"" by Harry Chapin",
+92,Parenting Issues,Parental guilt,"""Little Fires Everywhere"" by Celeste Ng","""Concrete Angel"" by Martina McBride",
+93,Parenting Issues,Custody,"""The Children Act"" by Ian McEwan","""She's Leaving Home"" by The Beatles",
+94,Parenting Issues,Custody,"""The Rosie Project"" by Graeme Simsion","""Better Man"" by Little Big Town",
+95,Parenting Issues,Fears wrt adult child,"""Where'd You Go, Bernadette"" by Maria Semple","""Slipping Through My Fingers"" by ABBA",
+96,Parenting Issues,Fears wrt adult child,"""The Light Between Oceans"" by M.L. Stedman","""You'll Be in My Heart"" by Phil Collins",
